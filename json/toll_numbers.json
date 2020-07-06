@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "name": "Doda",
+            "phone_number": "01996-233465"
+        },
+        {
+            "name": "Kathua",
+            "phone_number": "01922-234323"
+        },
+        {
+            "name": "Poonch",
+            "phone_number": "1965-220111"
+        },
+        {
+            "name": "Ramban",
+            "phone_number": "01998-266908"
+        },
+        {
+            "name": "Samba",
+            "phone_number": "01923-243009"
+        },
+        {
+            "name": "Jammu",
+            "phone_number": "0191-2577608"
+        },
+        {
+            "name": "Kishtwar",
+            "phone_number": "01995-261410"
+        },
+        {
+            "name": "Rajouri",
+            "phone_number": "01962-262640"
+        },
+        {
+            "name": "Reasi",
+            "phone_number": "01991-245684"
+        },
+        {
+            "name": "Udhampur",
+            "phone_number": "0199-2270862"
+        }
+    ]
+}

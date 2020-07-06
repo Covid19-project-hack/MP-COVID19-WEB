@@ -1,0 +1,4572 @@
+{
+    "c3": [
+        {
+            "sno": "1",
+            "district": "Bhopal",
+            "hospital": "AIIMS (DCH)",
+            "type": "Other Government Medical College"
+        },
+        {
+            "sno": "2",
+            "district": "Dewas",
+            "hospital": "Amaltas Institute of Medical Science",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "3",
+            "district": "Indore",
+            "hospital": "Aurobindo Hospital",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "4",
+            "district": "Bhopal",
+            "hospital": "Bansal Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "5",
+            "district": "Bhopal",
+            "hospital": "Chirayu Medical College (DCH)",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "6",
+            "district": "Indore",
+            "hospital": "CHOITHRAM HOSPITAL & RESEARCH CENTER",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "7",
+            "district": "Bhopal",
+            "hospital": "GMC Bhopal (DCH)",
+            "type": "Old Government Medical College"
+        },
+        {
+            "sno": "8",
+            "district": "Datia",
+            "hospital": "GMC Datia",
+            "type": "New Government Medical College"
+        },
+        {
+            "sno": "9",
+            "district": "Khandwa",
+            "hospital": "GMC Khandwa",
+            "type": "New Government Medical College"
+        },
+        {
+            "sno": "10",
+            "district": "Ratlam",
+            "hospital": "GMC Ratlam",
+            "type": "New Government Medical College"
+        },
+        {
+            "sno": "11",
+            "district": "Shahdol",
+            "hospital": "GMC Shahdol",
+            "type": "New Government Medical College"
+        },
+        {
+            "sno": "12",
+            "district": "Shivpuri",
+            "hospital": "GMC Shivpuri",
+            "type": "New Government Medical College"
+        },
+        {
+            "sno": "13",
+            "district": "Vidisha",
+            "hospital": "GMC Vidisha",
+            "type": "New Government Medical College"
+        },
+        {
+            "sno": "14",
+            "district": "Indore",
+            "hospital": "Index Medical College",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "15",
+            "district": "Khandwa",
+            "hospital": "Intensive care hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "16",
+            "district": "Gwalior",
+            "hospital": "JAH SUPER SPECIALITY",
+            "type": "Hospital"
+        },
+        {
+            "sno": "17",
+            "district": "Chhindwara",
+            "hospital": "Medical College Chhindwara",
+            "type": "New Government Medical College"
+        },
+        {
+            "sno": "18",
+            "district": "Gwalior",
+            "hospital": "Medical College Gwalior",
+            "type": "Old Government Medical College"
+        },
+        {
+            "sno": "19",
+            "district": "Mandsaur",
+            "hospital": "Siddi Vinayak Hospital  Mandsaur",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "20",
+            "district": "Sagar",
+            "hospital": "Medical College, Sagar",
+            "type": "Old Government Medical College"
+        },
+        {
+            "sno": "21",
+            "district": "Indore",
+            "hospital": "MRTB MC Indore",
+            "type": "Old Government Medical College"
+        },
+        {
+            "sno": "22",
+            "district": "Indore",
+            "hospital": "MTH HOSPITAL",
+            "type": "Old Government Medical College"
+        },
+        {
+            "sno": "23",
+            "district": "Jabalpur",
+            "hospital": "NSCB MEDICAL COLLEGE  (SUPER SPECIALITY)",
+            "type": "Old Government Medical College"
+        },
+        {
+            "sno": "24",
+            "district": "Rewa",
+            "hospital": "SGM MC Rewa",
+            "type": "Old Government Medical College"
+        },
+        {
+            "sno": "25",
+            "district": "Balaghat",
+            "hospital": "Aarogyam Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "26",
+            "district": "Anuppur",
+            "hospital": "District Hospital  Anuppur",
+            "type": "ANMTC "
+        },
+        {
+            "sno": "27",
+            "district": "Anuppur",
+            "hospital": "CHC  Kotma (Girls Hostel)",
+            "type": "Girls Hostal "
+        },
+        {
+            "sno": "28",
+            "district": "Anuppur",
+            "hospital": "CHC Kotma (CLK HS School Bijuri)",
+            "type": "CLK HS School Bijuri"
+        },
+        {
+            "sno": "29",
+            "district": "Anuppur",
+            "hospital": "CHC Kotma (S C Girls Hostel)",
+            "type": "S C Girls Hostal Kotma "
+        },
+        {
+            "sno": "30",
+            "district": "Anuppur",
+            "hospital": "CHC Jaithari ",
+            "type": " Girls Hostel"
+        },
+        {
+            "sno": "31",
+            "district": "Anuppur",
+            "hospital": "CHC Parasi",
+            "type": "PHC  Sakara "
+        },
+        {
+            "sno": "32",
+            "district": "Anuppur",
+            "hospital": "CHC Pushprajgarh",
+            "type": "Healh Centre"
+        },
+        {
+            "sno": "33",
+            "district": "Anuppur",
+            "hospital": "CHC Karpa ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "34",
+            "district": "Anuppur",
+            "hospital": "Aashirwad Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "35",
+            "district": "Balaghat",
+            "hospital": "Mulna Statdium ",
+            "type": "Community Hall "
+        },
+        {
+            "sno": "36",
+            "district": "Barwani",
+            "hospital": "Maha Mritunjay Hospital Barwani",
+            "type": "health Care Center"
+        },
+        {
+            "sno": "37",
+            "district": "Barwani",
+            "hospital": "Ashagram Hospital Barwani",
+            "type": "health Care Center"
+        },
+        {
+            "sno": "38",
+            "district": "Barwani",
+            "hospital": "Karuna Hospital Sendhwa",
+            "type": "health Care Center"
+        },
+        {
+            "sno": "39",
+            "district": "Shahdol",
+            "hospital": "Amrita Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "40",
+            "district": "Bhopal",
+            "hospital": "AIIMS  (DCHC)",
+            "type": "Other Government Medical College"
+        },
+        {
+            "sno": "41",
+            "district": "Chhindwara",
+            "hospital": "Anand Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "42",
+            "district": "Bhopal",
+            "hospital": "Bhopal Memorial Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "43",
+            "district": "Sagar",
+            "hospital": "Bhagyodaya Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "44",
+            "district": "Bhopal",
+            "hospital": "Bhopal (Ayurveda) Medical College",
+            "type": "Other Government Medical College"
+        },
+        {
+            "sno": "45",
+            "district": "Bhopal",
+            "hospital": "Bhopal (Homeopathy) Medical College",
+            "type": "Other Government Medical College"
+        },
+        {
+            "sno": "46",
+            "district": "Bhopal",
+            "hospital": "Bhopal (Unani) Medical College",
+            "type": "Other Government Medical College"
+        },
+        {
+            "sno": "47",
+            "district": "Sagar",
+            "hospital": "BMC Sagar",
+            "type": "Old Government Medical College"
+        },
+        {
+            "sno": "48",
+            "district": "Gwalior",
+            "hospital": "CH (BSF)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "49",
+            "district": "Burhanpur",
+            "hospital": "Burhanpur (Ayush) Medical College",
+            "type": "Other Government Medical College"
+        },
+        {
+            "sno": "50",
+            "district": "Burhanpur",
+            "hospital": "DH Burhanpur (CCC)",
+            "type": "Health center"
+        },
+        {
+            "sno": "51",
+            "district": "Burhanpur",
+            "hospital": " DH Burhanpur",
+            "type": "Health center"
+        },
+        {
+            "sno": "52",
+            "district": "Shahdol",
+            "hospital": "Central Hospital Burhar",
+            "type": "Other Government Hospital"
+        },
+        {
+            "sno": "53",
+            "district": "Chattarpur",
+            "hospital": "District Hospital Chhatarpur",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "54",
+            "district": "Chhindwara",
+            "hospital": "DH Chhindwara cum Medical college Chhindwara",
+            "type": "Govt. Health Centre"
+        },
+        {
+            "sno": "55",
+            "district": "Chhindwara",
+            "hospital": "CHC singhodi ",
+            "type": "Govt. Health Centre"
+        },
+        {
+            "sno": "56",
+            "district": "Ratlam",
+            "hospital": "CHL Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "57",
+            "district": "Jabalpur",
+            "hospital": "City Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "58",
+            "district": "Dhar",
+            "hospital": "Sardar Patel Hospital , Badnawar",
+            "type": "Health centre "
+        },
+        {
+            "sno": "59",
+            "district": "Dhar",
+            "hospital": "CHC Tirla",
+            "type": "Health centre "
+        },
+        {
+            "sno": "60",
+            "district": "Dhar",
+            "hospital": "CHC Sardarpur",
+            "type": "Health centre "
+        },
+        {
+            "sno": "61",
+            "district": "Dhar",
+            "hospital": "CHC Tanda",
+            "type": "Other instituion"
+        },
+        {
+            "sno": "62",
+            "district": "Dindori",
+            "hospital": "District Hospital Dindori",
+            "type": "health center"
+        },
+        {
+            "sno": "63",
+            "district": "Bhopal",
+            "hospital": "DH Bhopal",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "64",
+            "district": "Guna",
+            "hospital": "Sada Conony Radhogarh",
+            "type": "HOSPITAL "
+        },
+        {
+            "sno": "65",
+            "district": "Indore",
+            "hospital": "DH Indore",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "66",
+            "district": "Neemuch",
+            "hospital": "DH Neemuch (DHC)",
+            "type": "Hospital"
+        },
+        {
+            "sno": "67",
+            "district": "Gwalior",
+            "hospital": "Kalyan Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "68",
+            "district": "Gwalior",
+            "hospital": "VEDANSH HOSPITAL (36)",
+            "type": "Hospital"
+        },
+        {
+            "sno": "69",
+            "district": "Gwalior",
+            "hospital": "BIMR, MORAR (80)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "70",
+            "district": "Gwalior",
+            "hospital": "NAVJEEWAN (39)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "71",
+            "district": "Gwalior",
+            "hospital": "RIMMS (31)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "72",
+            "district": "Gwalior",
+            "hospital": "GLOBAL HOSPITAL (40)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "73",
+            "district": "Gwalior",
+            "hospital": "SM HOSPITAL (22)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "74",
+            "district": "Gwalior",
+            "hospital": "CHIRAYU HOSITAL (31)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "75",
+            "district": "Gwalior",
+            "hospital": "AYUSHMAN (30)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "76",
+            "district": "Gwalior",
+            "hospital": "MANSORVAR CARE (24)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "77",
+            "district": "Gwalior",
+            "hospital": "BRHAMANI (23)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "78",
+            "district": "Gwalior",
+            "hospital": "KM HOSPITAL (27)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "79",
+            "district": "Gwalior",
+            "hospital": "SUVIDHA HOSP. (18)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "80",
+            "district": "Gwalior",
+            "hospital": "INDUS HOSPITAL (28)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "81",
+            "district": "Gwalior",
+            "hospital": "APOLLO (42)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "82",
+            "district": "Gwalior",
+            "hospital": "Sofhia Hosp",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "83",
+            "district": "Gwalior",
+            "hospital": "MPCT Hospital",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "84",
+            "district": "Gwalior",
+            "hospital": "ITM hospital",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "85",
+            "district": "Gwalior",
+            "hospital": "VISM hosp.",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "86",
+            "district": "Gwalior",
+            "hospital": "ESI Hosp",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "87",
+            "district": "Gwalior",
+            "hospital": "Abhishek Hospital",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "88",
+            "district": "Gwalior",
+            "hospital": "ayurvedic hospital",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "89",
+            "district": "Gwalior",
+            "hospital": "BSF Tekanpur (CCC)",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "90",
+            "district": "Gwalior",
+            "hospital": "Military Hospital",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "91",
+            "district": "Gwalior",
+            "hospital": "District Hospital Gwalior",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "92",
+            "district": "Gwalior",
+            "hospital": "Idea Hospital",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "93",
+            "district": "Gwalior",
+            "hospital": "St. Joshp Hosp",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "94",
+            "district": "Gwalior",
+            "hospital": "Ramkrishna Hosp.",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "95",
+            "district": "Gwalior",
+            "hospital": "Care & Cure Hosp",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "96",
+            "district": "Gwalior",
+            "hospital": "Sarvadharam Hospita",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "97",
+            "district": "Gwalior",
+            "hospital": "Shri Venktesh Hosp.",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "98",
+            "district": "Gwalior",
+            "hospital": "TIME Hospital",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "99",
+            "district": "Gwalior",
+            "hospital": "Ramnath Chikitsalaya",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "100",
+            "district": "Gwalior",
+            "hospital": "Indrprasth Hosp",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "101",
+            "district": "Gwalior",
+            "hospital": "PHC Barai",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "102",
+            "district": "Gwalior",
+            "hospital": "CHC Bhitarwar",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "103",
+            "district": "Harda",
+            "hospital": "District Hospital Harda",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "104",
+            "district": "Harda",
+            "hospital": "Maa Rewa Hospital, harda",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "105",
+            "district": "Harda",
+            "hospital": "Pulse Hospital, Harda",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "106",
+            "district": "Harda",
+            "hospital": "Community Health Centre, Timarani",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "107",
+            "district": "Harda",
+            "hospital": "Primary Health Centre Rahatgaon, Block Timarani",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "108",
+            "district": "Harda",
+            "hospital": "Community Health Centre, Khirkiya",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "109",
+            "district": "Harda",
+            "hospital": "COMMUNITY HEALTH CENTRE, HANDIA",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "110",
+            "district": "Gwalior",
+            "hospital": "Gwalior (Ayush) Medical Colg.",
+            "type": "Other Government Medical College"
+        },
+        {
+            "sno": "111",
+            "district": "Khandwa",
+            "hospital": "Hinduja Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "112",
+            "district": "Jabalpur",
+            "hospital": "Jabalpur (Ayush) Medical College",
+            "type": "Other Government Medical College"
+        },
+        {
+            "sno": "113",
+            "district": "Gwalior",
+            "hospital": "JAH HOSPITAL"
+        },
+        {
+            "sno": "114",
+            "district": "Seoni",
+            "hospital": "Jindal and Jathar Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "115",
+            "district": "Mandla",
+            "hospital": "Katra Hospital, Mandla",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "116",
+            "district": "Anuppur",
+            "hospital": "Kotma Hospital",
+            "type": "Other Government Hospital"
+        },
+        {
+            "sno": "117",
+            "district": "Jabalpur",
+            "hospital": "SUKH SAGAR MEDICAL COLLEGE (CCC)",
+            "type": "College"
+        },
+        {
+            "sno": "118",
+            "district": "Jabalpur",
+            "hospital": "SUKH SAGAR MEDICAL (DCHC)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "119",
+            "district": "Jabalpur",
+            "hospital": "MILITARY HOSPITAL (200)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "120",
+            "district": "Jabalpur",
+            "hospital": "RAILWATY HOSPITAL (70)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "121",
+            "district": "Jabalpur",
+            "hospital": "CITY HOSPITAL (250)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "122",
+            "district": "Jabalpur",
+            "hospital": "METRO HOSPITAL (250)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "123",
+            "district": "Jabalpur",
+            "hospital": "JABALPUR HOSPITAL(250)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "124",
+            "district": "Jabalpur",
+            "hospital": "BOMBAY HOSPITAL (100)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "125",
+            "district": "Jabalpur",
+            "hospital": "MH HOSPITAL(60)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "126",
+            "district": "Gwalior",
+            "hospital": "Link Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "127",
+            "district": "jabalpur",
+            "hospital": "District Hospital Jabalpur",
+            "type": "Govt Hospital"
+        },
+        {
+            "sno": "128",
+            "district": "jabalpur",
+            "hospital": "NSCB MEDICAL COLLEGE",
+            "type": "Govt Hospital"
+        },
+        {
+            "sno": "129",
+            "district": "jabalpur",
+            "hospital": "City Hospital",
+            "type": "Pvt Hospital"
+        },
+        {
+            "sno": "130",
+            "district": "jabalpur",
+            "hospital": "Metro Hospital & Cancer Research Centre",
+            "type": "Pvt Hospital"
+        },
+        {
+            "sno": "131",
+            "district": "jabalpur",
+            "hospital": "Bombay Hospital & Research Centre",
+            "type": "Pvt Hospital"
+        },
+        {
+            "sno": "132",
+            "district": "jabalpur",
+            "hospital": "Jabalpur Hospital & Research Centre",
+            "type": "Pvt Hospital"
+        },
+        {
+            "sno": "133",
+            "district": "jabalpur",
+            "hospital": "MH Hospital (CCC)",
+            "type": "Pvt Hospital"
+        },
+        {
+            "sno": "134",
+            "district": "Jhabua",
+            "hospital": "DH Jhabua (CCC)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "135",
+            "district": "Satna",
+            "hospital": "M.P Birla Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "136",
+            "district": "Khandwa",
+            "hospital": "Trauma centre",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "137",
+            "district": "Khargone",
+            "hospital": "DISTRICT HOSPITAL Khargone ",
+            "type": "Health centre "
+        },
+        {
+            "sno": "138",
+            "district": "Khargone",
+            "hospital": "SUBHISHI HOSPITAL KHARGONE ",
+            "type": "Health centre "
+        },
+        {
+            "sno": "139",
+            "district": "Khargone",
+            "hospital": "CIVIL HOSPITAL BARWAH ",
+            "type": "Health centre "
+        },
+        {
+            "sno": "140",
+            "district": "Khargone",
+            "hospital": "CHC MAHESHWAR ",
+            "type": "Health centre "
+        },
+        {
+            "sno": "141",
+            "district": "Khargone",
+            "hospital": "PHC ASHAPUR ",
+            "type": "Health centre "
+        },
+        {
+            "sno": "142",
+            "district": "Khargone",
+            "hospital": "CHC BARUD ",
+            "type": "Health centre "
+        },
+        {
+            "sno": "143",
+            "district": "Khargone",
+            "hospital": "PHC MENGAON ",
+            "type": "Health centre "
+        },
+        {
+            "sno": "144",
+            "district": "Khargone",
+            "hospital": "CIVIL HOSPITAL SANAWAD ",
+            "type": "Health centre "
+        },
+        {
+            "sno": "145",
+            "district": "Khargone",
+            "hospital": "CHC BAGOD",
+            "type": "Health centre "
+        },
+        {
+            "sno": "146",
+            "district": "Jabalpur",
+            "hospital": "Medical College Jabalpur",
+            "type": "Old Government Medical College"
+        },
+        {
+            "sno": "147",
+            "district": "Mandsaur",
+            "hospital": "DH Mandsaur (CCC)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "148",
+            "district": "Mandla",
+            "hospital": "District Hospital Mandla",
+            "type": "Hospital "
+        },
+        {
+            "sno": "149",
+            "district": "Mandla",
+            "hospital": "Katra Hospital",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "150",
+            "district": "Mandla",
+            "hospital": "Yogiraj   Hospital",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "151",
+            "district": "Mandla",
+            "hospital": "Railway Hospital Nainpur ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "152",
+            "district": "Morena",
+            "hospital": "CHC Noorabad",
+            "type": "CHC"
+        },
+        {
+            "sno": "153",
+            "district": "Narsinghpur",
+            "hospital": "CHC Khurpa",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "154",
+            "district": "Narsinghpur",
+            "hospital": "Paradkar Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "155",
+            "district": "Narsinghpur",
+            "hospital": "Rewashree Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "156",
+            "district": "Neemuch",
+            "hospital": "Chourdiya Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "157",
+            "district": "Neemuch",
+            "hospital": "Gomabai Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "158",
+            "district": "Jabalpur",
+            "hospital": "Metro Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "159",
+            "district": "Neemuch",
+            "hospital": "CHC JEERAN",
+            "type": "Hostel"
+        },
+        {
+            "sno": "160",
+            "district": "Neemuch",
+            "hospital": "PHC CHITAKHEDA",
+            "type": "Community Hall"
+        },
+        {
+            "sno": "161",
+            "district": "Chattarpur",
+            "hospital": "Mission Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "162",
+            "district": "Rajgarh",
+            "hospital": "CH Biaora",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "163",
+            "district": "Rajgarh",
+            "hospital": "CH Narsingarh",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "164",
+            "district": "Rajgarh",
+            "hospital": "CH Sarangpur",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "165",
+            "district": "Rajgarh",
+            "hospital": "CHC Suthaliya",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "166",
+            "district": "Rajgarh",
+            "hospital": "CHC Boda",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "167",
+            "district": "Rajgarh",
+            "hospital": "CHC Jeerapur",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "168",
+            "district": "Rajgarh",
+            "hospital": "CHC Khujner",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "169",
+            "district": "Rajgarh",
+            "hospital": "CHC Khilchipur",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "170",
+            "district": "Rajgarh",
+            "hospital": "CHC Pachore",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "171",
+            "district": "Rajgarh",
+            "hospital": "District Hospital Rajgarh",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "172",
+            "district": "Ratlam",
+            "hospital": "Medical College",
+            "type": "Institution"
+        },
+        {
+            "sno": "173",
+            "district": "Rewa",
+            "hospital": "Medical College rewa",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "174",
+            "district": "Betul",
+            "hospital": "Padhar Trust Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "175",
+            "district": "Bhopal",
+            "hospital": "People's College",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "176",
+            "district": "Sagar",
+            "hospital": "TB Hospital Isolation ward",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "177",
+            "district": "Sagar",
+            "hospital": "Bidi Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "178",
+            "district": "Rajgarh",
+            "hospital": "Punjabi Nursing Home Byavara",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "179",
+            "district": "Sagar",
+            "hospital": "T B HOSPITAL SAGAR ",
+            "type": "HOSPITAL "
+        },
+        {
+            "sno": "180",
+            "district": "Sagar",
+            "hospital": "CENTREL HOSPITAL  BAGRAJ WARD SAGAR ",
+            "type": "HOSPITAL "
+        },
+        {
+            "sno": "181",
+            "district": "Sagar",
+            "hospital": "GUST HOUSE BMC SAGAR",
+            "type": "GUST HOUSE"
+        },
+        {
+            "sno": "182",
+            "district": "Sagar",
+            "hospital": "HOTEL 100 BLUE  NEAR BMC ",
+            "type": "HOTEL "
+        },
+        {
+            "sno": "183",
+            "district": "Sagar",
+            "hospital": "GUPTA LADGE NEAR BMC",
+            "type": "LADGE "
+        },
+        {
+            "sno": "184",
+            "district": "Sagar",
+            "hospital": "HOTE L VARDAN AND OM PALACE CIVIL LINE SAGAR ",
+            "type": "HOTEL "
+        },
+        {
+            "sno": "185",
+            "district": "Sagar",
+            "hospital": "HOTEL ROYAL PALACE RAJGHAT ROAD SAGAR",
+            "type": "HOTEL "
+        },
+        {
+            "sno": "186",
+            "district": "Sagar",
+            "hospital": "HOTEL SANGAM  CIVIL LINE SAGAR",
+            "type": "HOTEL "
+        },
+        {
+            "sno": "187",
+            "district": "Sagar",
+            "hospital": "HOTEL MANGLAM  BUS STAND SAGAR",
+            "type": "HOTEL "
+        },
+        {
+            "sno": "188",
+            "district": "Sagar",
+            "hospital": "HOTEL CROWN PALACE ",
+            "type": "HOTEL "
+        },
+        {
+            "sno": "189",
+            "district": "Sagar",
+            "hospital": "NEWLY CONSTRUCTED  QUARTER DH SAGAR ",
+            "type": " Other instituion"
+        },
+        {
+            "sno": "190",
+            "district": "Mandla",
+            "hospital": "Railway Hospital, Nainpur",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "191",
+            "district": "Sehore",
+            "hospital": "Rana Uday Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "192",
+            "district": "Sehore",
+            "hospital": "District hospital Sehore",
+            "type": "Health Center Sehore"
+        },
+        {
+            "sno": "193",
+            "district": "Sehore",
+            "hospital": "Civil Hospital Ashta",
+            "type": "Health Center Asahta"
+        },
+        {
+            "sno": "194",
+            "district": "Sehore",
+            "hospital": "Civil Hospital Nasrullaganj",
+            "type": "Health Center Nasrullaganj"
+        },
+        {
+            "sno": "195",
+            "district": "Sehore",
+            "hospital": "CHC Jawar",
+            "type": "Health Center Jawar"
+        },
+        {
+            "sno": "196",
+            "district": "Sehore",
+            "hospital": "CHC Ladkui",
+            "type": "Health Center Ladkui"
+        },
+        {
+            "sno": "197",
+            "district": "Sehore",
+            "hospital": "CHC Rehti",
+            "type": "Health Center Rehti"
+        },
+        {
+            "sno": "198",
+            "district": "Sehore",
+            "hospital": "CHC Budhni",
+            "type": "Health Center Budhni"
+        },
+        {
+            "sno": "199",
+            "district": "Sehore",
+            "hospital": "CHC Shyampur",
+            "type": "Health Center Shyampur"
+        },
+        {
+            "sno": "200",
+            "district": "Sehore",
+            "hospital": "CHC Doraha",
+            "type": "Health Center Doraha"
+        },
+        {
+            "sno": "201",
+            "district": "Sehore",
+            "hospital": "CHC Bilkisganj",
+            "type": "Health Center Bilkisganj"
+        },
+        {
+            "sno": "202",
+            "district": "Sehore",
+            "hospital": "CHC Ichhawar",
+            "type": "Health Center Ichhawar"
+        },
+        {
+            "sno": "203",
+            "district": "Sehore",
+            "hospital": "Rana Uday Hospital Sehore",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "204",
+            "district": "Sehore",
+            "hospital": "City Care Hospital Sehore",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "205",
+            "district": "Ujjain",
+            "hospital": "RD Gardi Medical college (DCH)",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "206",
+            "district": "Umaria",
+            "hospital": "Regional Hospital Narozabad",
+            "type": "Other Government Hospital"
+        },
+        {
+            "sno": "207",
+            "district": "Rewa",
+            "hospital": "Rewa (Ayush) Medical College",
+            "type": "Other Government Medical College"
+        },
+        {
+            "sno": "208",
+            "district": "Shahdol",
+            "hospital": "DH Shahdol (CCC)",
+            "type": "HEALTH CENTER"
+        },
+        {
+            "sno": "209",
+            "district": "Shahdol",
+            "hospital": "MEDICAL COLLEGE",
+            "type": "HEALTH CENTER"
+        },
+        {
+            "sno": "210",
+            "district": "Shajapur",
+            "hospital": "DH Shajapur  (CCC)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "211",
+            "district": "Shajapur",
+            "hospital": "CH Shujalpur ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "212",
+            "district": "Shajapur",
+            "hospital": "CH Shujalpur Mandi",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "213",
+            "district": "Shajapur",
+            "hospital": "CHC Kalapipal",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "214",
+            "district": "Shajapur",
+            "hospital": "PHC Berchha",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "215",
+            "district": "Shajapur",
+            "hospital": "CHC Polaykala",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "216",
+            "district": "Shajapur",
+            "hospital": "CHC Moman Barodia",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "217",
+            "district": "Shajapur",
+            "hospital": "Vyas Nursing Home (Private)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "218",
+            "district": "Shajapur",
+            "hospital": "Patidar Nursing Home (Private) ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "219",
+            "district": "Shajapur",
+            "hospital": "Shajapur City Hospital (Private)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "220",
+            "district": "Shajapur",
+            "hospital": "Gohil Hospital, Shajapur ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "221",
+            "district": "Shajapur",
+            "hospital": "Jash hospital shujalpur (Private) ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "222",
+            "district": "Sheopur",
+            "hospital": "DH Sheopur",
+            "type": "Hostel"
+        },
+        {
+            "sno": "223",
+            "district": "Sagar",
+            "hospital": "Sagar Shree Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "224",
+            "district": "Guna",
+            "hospital": "Sahyog Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "225",
+            "district": "Sidhi",
+            "hospital": "DH Siddhi (CCC)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "226",
+            "district": "Sidhi",
+            "hospital": "GNM Training Centre",
+            "type": "community Hall"
+        },
+        {
+            "sno": "227",
+            "district": "Tikamgarh",
+            "hospital": "Sewa nursing home",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "228",
+            "district": "Tikamgarh",
+            "hospital": "Dev sudha sewaly",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "229",
+            "district": "Tikamgarh",
+            "hospital": "Rai multi Specilaty Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "230",
+            "district": "Tikamgarh",
+            "hospital": "Govind Sai Metarnity Home",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "231",
+            "district": "Tikamgarh",
+            "hospital": "City Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "232",
+            "district": "Tikamgarh",
+            "hospital": "Life Care Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "233",
+            "district": "Tikamgarh",
+            "hospital": "Ayushmaan Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "234",
+            "district": "Tikamgarh",
+            "hospital": "Matartv matarnity  Home",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "235",
+            "district": "Tikamgarh",
+            "hospital": "Shri Radhe Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "236",
+            "district": "Shivpuri",
+            "hospital": "Siddhi Vinayak Multi Speciality Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "237",
+            "district": "Ujjain",
+            "hospital": "RD Gardi Medical college (DCHC)",
+            "type": "Other Government Medical College"
+        },
+        {
+            "sno": "238",
+            "district": "Jabalpur",
+            "hospital": "Sukh Sagar Medical College",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "239",
+            "district": "Bhopal",
+            "hospital": "TB Hospital",
+            "type": "Other Government Hospital"
+        },
+        {
+            "sno": "240",
+            "district": "Ujjain",
+            "hospital": "Ujjain (Ayush) Medical College",
+            "type": "Other Government Medical College"
+        },
+        {
+            "sno": "241",
+            "district": "Umaria",
+            "hospital": "DH umaria (CCC)",
+            "type": "Health center "
+        },
+        {
+            "sno": "242",
+            "district": "Vidisha",
+            "hospital": "Medical college 500 (100 are ready now)",
+            "type": "Health center "
+        },
+        {
+            "sno": "243",
+            "district": "Vidisha",
+            "hospital": "Chc Nateran",
+            "type": "Health center "
+        },
+        {
+            "sno": "244",
+            "district": "Vidisha",
+            "hospital": "CHC Lateri",
+            "type": "Health center "
+        },
+        {
+            "sno": "245",
+            "district": "Vidisha",
+            "hospital": "CHC Kurwai",
+            "type": "Health center "
+        },
+        {
+            "sno": "246",
+            "district": "Vidisha",
+            "hospital": "Civil hospital Basoda",
+            "type": "Health center "
+        },
+        {
+            "sno": "247",
+            "district": "Vidisha",
+            "hospital": "Civil hospital sironj",
+            "type": "Health center "
+        },
+        {
+            "sno": "248",
+            "district": "Vidisha",
+            "hospital": "Cwsn hostel",
+            "type": "Health center "
+        },
+        {
+            "sno": "249",
+            "district": "Vidisha",
+            "hospital": "Reserved beds in Others",
+            "type": "Health center "
+        },
+        {
+            "sno": "250",
+            "district": "Vidisha",
+            "hospital": "DISTRCIT HOSPITAL",
+            "type": "HEALTH FACILITY"
+        },
+        {
+            "sno": "251",
+            "district": "Vidisha",
+            "hospital": "NATERAN (Hostel-3)",
+            "type": "HOSTEL - 3"
+        },
+        {
+            "sno": "252",
+            "district": "Vidisha",
+            "hospital": "NATERAN (Health facility)",
+            "type": "HEALTH FACILITY-5"
+        },
+        {
+            "sno": "253",
+            "district": "Vidisha",
+            "hospital": "NATERAN (Other)",
+            "type": "OTHER - 1"
+        },
+        {
+            "sno": "254",
+            "district": "Vidisha",
+            "hospital": "LATERI (Hostel)",
+            "type": "HOSTEL - 4"
+        },
+        {
+            "sno": "255",
+            "district": "Vidisha",
+            "hospital": "LATERI (community hall)",
+            "type": "COMMUNITY HALL-  1"
+        },
+        {
+            "sno": "256",
+            "district": "Vidisha",
+            "hospital": "LATERI (Health facility)",
+            "type": "HEALTH FACILITY-1"
+        },
+        {
+            "sno": "257",
+            "district": "Vidisha",
+            "hospital": "SIRONJ (Hostel)",
+            "type": "HOSTEL - 1"
+        },
+        {
+            "sno": "258",
+            "district": "Vidisha",
+            "hospital": "SIRONJ (Health facility)",
+            "type": "HEALTH FACILITY-2"
+        },
+        {
+            "sno": "259",
+            "district": "Vidisha",
+            "hospital": "PEEPALKHEDA (hostel)",
+            "type": "HOSTEL - 5"
+        },
+        {
+            "sno": "260",
+            "district": "Vidisha",
+            "hospital": "PEEPALKHEDA (Health facility)",
+            "type": "HEALTH FACILITY-2"
+        },
+        {
+            "sno": "261",
+            "district": "Vidisha",
+            "hospital": "PEEPALKHEDA (Other)",
+            "type": "OTHER-5"
+        },
+        {
+            "sno": "262",
+            "district": "Vidisha",
+            "hospital": "KURWAI (hostel)",
+            "type": "HOSTEL - 10"
+        },
+        {
+            "sno": "263",
+            "district": "Vidisha",
+            "hospital": "KURWAI (health centre)",
+            "type": "HEALTH CENTER - 6"
+        },
+        {
+            "sno": "264",
+            "district": "Vidisha",
+            "hospital": "KURWAI (community hall)",
+            "type": "COMMUNITY HALL-  2"
+        },
+        {
+            "sno": "265",
+            "district": "Vidisha",
+            "hospital": "KURWAI (Other)",
+            "type": "OTHER - 1"
+        },
+        {
+            "sno": "266",
+            "district": "Vidisha",
+            "hospital": "GYRASPUR (hostel)",
+            "type": "HOSTEL - 2"
+        },
+        {
+            "sno": "267",
+            "district": "Vidisha",
+            "hospital": "GYRASPUR (health centre)",
+            "type": "HEALTH CENTER - 6"
+        },
+        {
+            "sno": "268",
+            "district": "Vidisha",
+            "hospital": "GYRASPUR (community hall)",
+            "type": "COMMUNITY HALL-  4"
+        },
+        {
+            "sno": "269",
+            "district": "Vidisha",
+            "hospital": "BASODA (hostel)",
+            "type": "HOSTEL - 3"
+        },
+        {
+            "sno": "270",
+            "district": "Vidisha",
+            "hospital": "BASODA (Health centre)",
+            "type": "HEALTH CENTER - 3"
+        },
+        {
+            "sno": "271",
+            "district": "Vidisha",
+            "hospital": "BASODA (community hall)",
+            "type": "COMMUNITY HALL-  1"
+        },
+        {
+            "sno": "272",
+            "district": "Bhopal",
+            "hospital": "RGVP Hospital",
+            "type": "health Care Center"
+        },
+        {
+            "sno": "273",
+            "district": "Sagar",
+            "hospital": "SVN University hospital Sironja",
+            "type": "health Care Center"
+        },
+        {
+            "sno": "274",
+            "district": "Sidhi",
+            "hospital": "ftyk vk;qosZn fpfdRlky; lh/kh",
+            "type": "health Care Center"
+        },
+        {
+            "sno": "275",
+            "district": "Barwani",
+            "hospital": "Narayan Das Hospital ,Sendhwa ",
+            "type": "health Care Center"
+        },
+        {
+            "sno": "276",
+            "district": "Barwani",
+            "hospital": "Balaji Hospital,Barwani",
+            "type": "health Care Center"
+        },
+        {
+            "sno": "277",
+            "district": "Barwani",
+            "hospital": "Dist. Hospital,Barwani  (Trauma Centre) ",
+            "type": "health Care Center"
+        },
+        {
+            "sno": "278",
+            "district": "Barwani",
+            "hospital": "Yogeshwar college of Nursing, Piplaj",
+            "type": "health Care Center"
+        }
+    ],
+    "c2": [
+        {
+            "sno": "1",
+            "district": "Agar Malwa",
+            "hospital": "DH Agar Malwa",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "2",
+            "district": "Alirajpur",
+            "hospital": "DH Alirajpur",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "3",
+            "district": "Anuppur",
+            "hospital": "DH Anuppur",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "4",
+            "district": "Ashoknagar",
+            "hospital": "DH Ashoknagar",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "5",
+            "district": "Balaghat",
+            "hospital": "DH Balaghat",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "6",
+            "district": "Barwani",
+            "hospital": "DH Barwani",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "7",
+            "district": "Betul",
+            "hospital": "DH Betul",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "8",
+            "district": "Bhind",
+            "hospital": "DH Bhind",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "9",
+            "district": "Bhopal",
+            "hospital": "Chirayu Medical College (DCHC)",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "10",
+            "district": "Bhopal",
+            "hospital": "GMC Bhopal (DCHC)",
+            "type": "Government Medical College"
+        },
+        {
+            "sno": "11",
+            "district": "Indore",
+            "hospital": "Bombay Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "12",
+            "district": "Burhanpur",
+            "hospital": "DH Burhanpur (DCHC)",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "13",
+            "district": "Chattarpur",
+            "hospital": "DH Chattarpur (DCHC)",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "14",
+            "district": "Indore",
+            "hospital": "Index Medical College (DCHC)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "15",
+            "district": "Chhindwara",
+            "hospital": "DH Chhindwara",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "16",
+            "district": "Damoh",
+            "hospital": "DH Damoh (DCHC)",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "17",
+            "district": "Datia",
+            "hospital": "DH Datia",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "18",
+            "district": "Dewas",
+            "hospital": "DH Dewas",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "19",
+            "district": "Dhar",
+            "hospital": "DH Dhar",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "20",
+            "district": "Dindori",
+            "hospital": "DH Dindori",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "21",
+            "district": "Guna",
+            "hospital": "DH Guna (DCHC)",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "22",
+            "district": "Jabalpur",
+            "hospital": "DH Jabalpur",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "23",
+            "district": "Gwalior",
+            "hospital": "DH Gwalior",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "24",
+            "district": "Ujjain",
+            "hospital": "DH Ujjain",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "25",
+            "district": "Indore",
+            "hospital": "ESIC Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "26",
+            "district": "Harda",
+            "hospital": "DH Harda",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "27",
+            "district": "Hoshangabad",
+            "hospital": "DH Hoshangabad",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "28",
+            "district": "Indore",
+            "hospital": "SHELBY HOSPITAL ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "29",
+            "district": "Indore",
+            "hospital": "Getwell Hospital",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "30",
+            "district": "Indore",
+            "hospital": "Gokul Das",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "31",
+            "district": "Indore",
+            "hospital": "INDORE CHEST Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "32",
+            "district": "Indore",
+            "hospital": "PRASHANI HOSPITAL MHOW",
+            "type": "Hospital"
+        },
+        {
+            "sno": "33",
+            "district": "Indore",
+            "hospital": "MAYUR HOSPITAL & RESEARCH CENTER",
+            "type": "Hospital"
+        },
+        {
+            "sno": "34",
+            "district": "Indore",
+            "hospital": "SUYASH HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "35",
+            "district": "Indore",
+            "hospital": "SHRI ARIHANT HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "36",
+            "district": "Indore",
+            "hospital": "SENERGY HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "37",
+            "district": "Indore",
+            "hospital": "VISHESH HOSPITAL ",
+            "type": "Hospital"
+        },
+        {
+            "sno": "38",
+            "district": "Jhabua",
+            "hospital": "DH Jhabua (DCHC)",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "39",
+            "district": "Katni",
+            "hospital": "DH Katni",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "40",
+            "district": "Dhar",
+            "hospital": "Mahajan Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "41",
+            "district": "Khandwa",
+            "hospital": "DH Khandwa",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "42",
+            "district": "Khargone",
+            "hospital": "DH Khargone",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "43",
+            "district": "Mandla",
+            "hospital": "DH Mandla",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "44",
+            "district": "Mandsaur",
+            "hospital": "DH Mandsaur (DCHC)",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "45",
+            "district": "Morena",
+            "hospital": "DH Morena",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "46",
+            "district": "Narsinghpur",
+            "hospital": "DH Narsinghpur",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "47",
+            "district": "Neemuch",
+            "hospital": "DH Neemuch (DHCH)",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "48",
+            "district": "Panna",
+            "hospital": "DH Panna",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "49",
+            "district": "Raisen",
+            "hospital": "DH Raisen",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "50",
+            "district": "Rajgarh",
+            "hospital": "DH Rajgarh",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "51",
+            "district": "Ratlam",
+            "hospital": "DH Ratlam",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "52",
+            "district": "Singrauli",
+            "hospital": "Nehru Shatabdi Chikitsalaya, Jayant, NCL",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "53",
+            "district": "Rewa",
+            "hospital": "DH Rewa (DCHC)",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "54",
+            "district": "Indore",
+            "hospital": "New Vishesh Hospital",
+            "type": "Private Hospital"
+        },
+        {
+            "sno": "55",
+            "district": "Sagar",
+            "hospital": "DH Sagar (DCHC)",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "56",
+            "district": "Satna",
+            "hospital": "DH Satna",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "57",
+            "district": "Sehore",
+            "hospital": "DH Sehore",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "58",
+            "district": "Seoni",
+            "hospital": "DH Seoni",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "59",
+            "district": "Neemuch",
+            "hospital": "CH (CRPF) Neemuch",
+            "type": "Hospital"
+        },
+        {
+            "sno": "60",
+            "district": "Shahdol",
+            "hospital": "DH Shahdol (DCHC)",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "61",
+            "district": "Shajapur",
+            "hospital": "DH Shajapur (DCHC)",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "62",
+            "district": "Sheopur",
+            "hospital": "DH Sheopur",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "63",
+            "district": "Shivpuri",
+            "hospital": "DH Shivpuri",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "64",
+            "district": "Sidhi",
+            "hospital": "DH Sidhi (DCHC)",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "65",
+            "district": "Singrauli",
+            "hospital": "DH Singrauli",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "66",
+            "district": "Tikamgarh",
+            "hospital": "DH Tikamgarh",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "67",
+            "district": "Ujjain",
+            "hospital": "Civil Hospital Madhavnagar",
+            "type": "Other Government Hospital"
+        },
+        {
+            "sno": "68",
+            "district": "Umaria",
+            "hospital": "DH Umaria (DCHC)",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "69",
+            "district": "Vidisha",
+            "hospital": "DH Vidisha",
+            "type": "District Hospital"
+        },
+        {
+            "sno": "70",
+            "district": "Bhopal",
+            "hospital": "Kasturba Hospital (BHEL)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "71",
+            "district": "Bhopal",
+            "hospital": "CH (CRPF) - Bhopal",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "72",
+            "district": "Singrauli",
+            "hospital": "Sanjeevani Hospital (NTPC)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "73",
+            "district": "Jabalpur",
+            "hospital": "Central Hospital (Railway Ministry)",
+            "type": "Health Centre"
+        }
+    ],
+    "c1": [
+        {
+            "sno": "1",
+            "district": "Agar Malwa",
+            "hospital": "Govt hostel Agar Malwa",
+            "type": "Hostal"
+        },
+        {
+            "sno": "2",
+            "district": "Alirajpur",
+            "hospital": "ANM Nursing Center Hostel",
+            "type": "Hostel"
+        },
+        {
+            "sno": "3",
+            "district": "Anuppur",
+            "hospital": "Hotel Govindam Anuppur ",
+            "type": "Hotel"
+        },
+        {
+            "sno": "4",
+            "district": "Anuppur",
+            "hospital": "ST Boys Hostal Jaithari ",
+            "type": "Hostal "
+        },
+        {
+            "sno": "5",
+            "district": "Anuppur",
+            "hospital": "SC Boys Hostal ",
+            "type": "Hostal "
+        },
+        {
+            "sno": "6",
+            "district": "Anuppur",
+            "hospital": "MI Rasdeen HSS Jaithari ",
+            "type": "Hostal "
+        },
+        {
+            "sno": "7",
+            "district": "Anuppur",
+            "hospital": "Kasturba Gandhi Hostal Pushprajgarh",
+            "type": "Hostal "
+        },
+        {
+            "sno": "8",
+            "district": "Anuppur",
+            "hospital": "Utkristh  Boys Hostal Pushprajgarh",
+            "type": "Hostal "
+        },
+        {
+            "sno": "9",
+            "district": "Anuppur",
+            "hospital": "HSS Lakhora Boys Pushprajgarh",
+            "type": "Hostal "
+        },
+        {
+            "sno": "10",
+            "district": "Ashoknagar",
+            "hospital": "GNM training center",
+            "type": " training center"
+        },
+        {
+            "sno": "11",
+            "district": "Balaghat",
+            "hospital": "Ranger Collage Aranya Hostel",
+            "type": " Hostel "
+        },
+        {
+            "sno": "12",
+            "district": "Betul",
+            "hospital": "DEIC DH Betul",
+            "type": "Health Center Betul"
+        },
+        {
+            "sno": "13",
+            "district": "Betul",
+            "hospital": "Lado Kanya Hostel Amlapur",
+            "type": "Hostel"
+        },
+        {
+            "sno": "14",
+            "district": "Betul",
+            "hospital": "ST Boys Govt Hostel Sehra",
+            "type": "Hostel"
+        },
+        {
+            "sno": "15",
+            "district": "Betul",
+            "hospital": "ST Boys Govt Hostel Shahpur",
+            "type": "Hostel"
+        },
+        {
+            "sno": "16",
+            "district": "Betul",
+            "hospital": "ST Girls Hostel Bhimpur",
+            "type": "Hostel"
+        },
+        {
+            "sno": "17",
+            "district": "Betul",
+            "hospital": "ST Girls Hostel Ghodadongri",
+            "type": "Hostel"
+        },
+        {
+            "sno": "18",
+            "district": "Betul",
+            "hospital": "ST Boys Hostel Chicholi",
+            "type": "Hostel"
+        },
+        {
+            "sno": "19",
+            "district": "Betul",
+            "hospital": "S T Hostel Bhainsdehi",
+            "type": "Hostel"
+        },
+        {
+            "sno": "20",
+            "district": "Betul",
+            "hospital": "ST Boys Hostel Athner",
+            "type": "Hostel"
+        },
+        {
+            "sno": "21",
+            "district": "Betul",
+            "hospital": "ST Girls Hostel Amla",
+            "type": "Hostel"
+        },
+        {
+            "sno": "22",
+            "district": "Betul",
+            "hospital": "Panchayat Sachiv Training Centre Multai",
+            "type": "Other instituion"
+        },
+        {
+            "sno": "23",
+            "district": "Betul",
+            "hospital": "ST Boys Hostel Prabhatpattan",
+            "type": "Hostel"
+        },
+        {
+            "sno": "24",
+            "district": "Bhind",
+            "hospital": "Patiram Shivhare Nursing College, Bhind",
+            "type": "Nursing College"
+        },
+        {
+            "sno": "25",
+            "district": "Bhopal",
+            "hospital": "DMI Guesthouse"
+        },
+        {
+            "sno": "26",
+            "district": "Burhanpur",
+            "hospital": "ANMTC, BURHANPUR",
+            "type": "Other institution"
+        },
+        {
+            "sno": "27",
+            "district": "Chattarpur",
+            "hospital": "Youth Hostel Khajuraho",
+            "type": "Hostel"
+        },
+        {
+            "sno": "28",
+            "district": "Chattarpur",
+            "hospital": "Qurantine Center Dhadari, Chhatarpur",
+            "type": "Health Center "
+        },
+        {
+            "sno": "29",
+            "district": "Chattarpur",
+            "hospital": "Government Scheduled Cast Junior Girls Hostel Lavkushnagar",
+            "type": "Hostel"
+        },
+        {
+            "sno": "30",
+            "district": "Chattarpur",
+            "hospital": "sand testing Lab Building Gourihar",
+            "type": "Other Institution"
+        },
+        {
+            "sno": "31",
+            "district": "Chattarpur",
+            "hospital": "Sheduled Tribe Hostel Badamalehra",
+            "type": "Hostel"
+        },
+        {
+            "sno": "32",
+            "district": "Chattarpur",
+            "hospital": "Boyes Hostel Vill Tatam, Maharajpur",
+            "type": "Hostel"
+        },
+        {
+            "sno": "33",
+            "district": "Chattarpur",
+            "hospital": "Girls Hostel Buxwaha",
+            "type": "Hostel"
+        },
+        {
+            "sno": "34",
+            "district": "Chattarpur",
+            "hospital": "Community Hall Nagar Palika Bijawar",
+            "type": "Community Hall"
+        },
+        {
+            "sno": "35",
+            "district": "Chattarpur",
+            "hospital": "Panchayat Bhavan Vill Mau, Nowgong",
+            "type": "Other Institution"
+        },
+        {
+            "sno": "36",
+            "district": "Chattarpur",
+            "hospital": "Govrnment Junior Boys Hostel Kurraha, Nowgong",
+            "type": "Hostel"
+        },
+        {
+            "sno": "37",
+            "district": "Chhindwara",
+            "hospital": "GNM Centre Chhindwara  ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "38",
+            "district": "Chhindwara",
+            "hospital": "Dev Internation Hotel Chhindwara ",
+            "type": "Hotel"
+        },
+        {
+            "sno": "39",
+            "district": "Damoh",
+            "hospital": "Damoh facility",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "40",
+            "district": "Datia",
+            "hospital": "DMC  Hostel, Datia",
+            "type": "Hostel"
+        },
+        {
+            "sno": "41",
+            "district": "Datia",
+            "hospital": "GNMTC datia",
+            "type": "GNMTC"
+        },
+        {
+            "sno": "42",
+            "district": "Dewas",
+            "hospital": "senior girls hostel 2 bholenath mandir ke samne balgard road dewas",
+            "type": "hostel"
+        },
+        {
+            "sno": "43",
+            "district": "Dewas",
+            "hospital": "senior girls hostel 1 bholenath mandir ke samne balgard road dewas",
+            "type": "hostel"
+        },
+        {
+            "sno": "44",
+            "district": "Dewas",
+            "hospital": "OBC post matric girls hostel behind bholenath temple baalgad road dewas",
+            "type": "hostel"
+        },
+        {
+            "sno": "45",
+            "district": "Dewas",
+            "hospital": "girls excellence education hostel shedule tribe department",
+            "type": "hostel"
+        },
+        {
+            "sno": "46",
+            "district": "Dewas",
+            "hospital": "girls post metric hostel in front of bholenath temple balgard road Dewas",
+            "type": "hostel"
+        },
+        {
+            "sno": "47",
+            "district": "Dewas",
+            "hospital": "excellence boys hostel oldage home near mitha talab Dewas",
+            "type": "hostel"
+        },
+        {
+            "sno": "48",
+            "district": "Dewas",
+            "hospital": "Post metric senior boys hostel oldage home near mitha talab Dewas",
+            "type": "hostel"
+        },
+        {
+            "sno": "49",
+            "district": "Dewas",
+            "hospital": "OBC  metric senior boys hostel oldage home near mitha talab Dewas",
+            "type": "hostel"
+        },
+        {
+            "sno": "50",
+            "district": "Dewas",
+            "hospital": "Govt College Shedule cast boys hostel vijaygang mandi dewas",
+            "type": "hostel"
+        },
+        {
+            "sno": "51",
+            "district": "Dewas",
+            "hospital": "Senior boys hostel Barotha",
+            "type": "hostel"
+        },
+        {
+            "sno": "52",
+            "district": "Dewas",
+            "hospital": "Kasturba ghandhi girls hostel doublechouki ",
+            "type": "hostel"
+        },
+        {
+            "sno": "53",
+            "district": "Dewas",
+            "hospital": "Govt Senior boys excellence hostel kannod",
+            "type": "hostel"
+        },
+        {
+            "sno": "54",
+            "district": "Dewas",
+            "hospital": "junior girls excellence hostel kannod",
+            "type": "hostel"
+        },
+        {
+            "sno": "55",
+            "district": "Dewas",
+            "hospital": "Govt shedule cast  senior boys hostel  kannod",
+            "type": "hostel"
+        },
+        {
+            "sno": "56",
+            "district": "Dewas",
+            "hospital": "Govt shedule tribe  senior boys hostel  kannod",
+            "type": "hostel"
+        },
+        {
+            "sno": "57",
+            "district": "Dewas",
+            "hospital": "Govt boys hostel Kannod",
+            "type": "hostel"
+        },
+        {
+            "sno": "58",
+            "district": "Dewas",
+            "hospital": "Nandan palace",
+            "type": "hotel"
+        },
+        {
+            "sno": "59",
+            "district": "Dewas",
+            "hospital": "Gurukripa lodge",
+            "type": "hotel"
+        },
+        {
+            "sno": "60",
+            "district": "Dewas",
+            "hospital": "Daduji Palace",
+            "type": "hotel"
+        },
+        {
+            "sno": "61",
+            "district": "Dewas",
+            "hospital": "Sai pal kannod",
+            "type": "hotel"
+        },
+        {
+            "sno": "62",
+            "district": "Dewas",
+            "hospital": "Sorthiya garden daserah maidan kannod",
+            "type": "hotel"
+        },
+        {
+            "sno": "63",
+            "district": "Dewas",
+            "hospital": "Govt h.s school Satwas",
+            "type": "school"
+        },
+        {
+            "sno": "64",
+            "district": "Dewas",
+            "hospital": "Govt Middle School kantafod",
+            "type": "school"
+        },
+        {
+            "sno": "65",
+            "district": "Dewas",
+            "hospital": "Govt Girls hostel tonkhurd",
+            "type": "hostel"
+        },
+        {
+            "sno": "66",
+            "district": "Dewas",
+            "hospital": "Kasturba ghandhi girls hostel Tonkhurd",
+            "type": "hostel"
+        },
+        {
+            "sno": "67",
+            "district": "Dewas",
+            "hospital": "Govt ITI Tonkala",
+            "type": "hostel"
+        },
+        {
+            "sno": "68",
+            "district": "Dewas",
+            "hospital": "Senior Boys hostel Choubaradhira",
+            "type": "hostel"
+        },
+        {
+            "sno": "69",
+            "district": "Dewas",
+            "hospital": "Senior girls hostel tonkhurd",
+            "type": "hostel"
+        },
+        {
+            "sno": "70",
+            "district": "Dewas",
+            "hospital": "Senior Girl's excellence hostel Bagli ",
+            "type": "hostel"
+        },
+        {
+            "sno": "71",
+            "district": "Dewas",
+            "hospital": "Senior boys excellence hostel Bagli ",
+            "type": "hostel"
+        },
+        {
+            "sno": "72",
+            "district": "Dewas",
+            "hospital": "Boys hostel Udainagar ",
+            "type": "hostel"
+        },
+        {
+            "sno": "73",
+            "district": "Dewas",
+            "hospital": "Community welfare center Udainagar ",
+            "type": "community hall"
+        },
+        {
+            "sno": "74",
+            "district": "Dewas",
+            "hospital": "Girls hostel Udainagar ",
+            "type": "hostel"
+        },
+        {
+            "sno": "75",
+            "district": "Dewas",
+            "hospital": "Boys hostel Peepri",
+            "type": "hostel"
+        },
+        {
+            "sno": "76",
+            "district": "Dewas",
+            "hospital": "Boys hostel Punjapura ",
+            "type": "hostel"
+        },
+        {
+            "sno": "77",
+            "district": "Dewas",
+            "hospital": "Girls Ashram Punjapura ",
+            "type": "hostel"
+        },
+        {
+            "sno": "78",
+            "district": "Dewas",
+            "hospital": "Senior girls excellence hostel Hatpipliya ",
+            "type": "hostel"
+        },
+        {
+            "sno": "79",
+            "district": "Dewas",
+            "hospital": "Senior boys excellence hostel Hatpipliya ",
+            "type": "hostel"
+        },
+        {
+            "sno": "80",
+            "district": "Dewas",
+            "hospital": "Senior boys Hostel sonkatch ",
+            "type": "hostel"
+        },
+        {
+            "sno": "81",
+            "district": "Dewas",
+            "hospital": "Boys hostel sawer",
+            "type": "hostel"
+        },
+        {
+            "sno": "82",
+            "district": "Dewas",
+            "hospital": "Girls hostel sonkatch",
+            "type": "hostel"
+        },
+        {
+            "sno": "83",
+            "district": "Dewas",
+            "hospital": "Sunsine High School sonkatch",
+            "type": "school"
+        },
+        {
+            "sno": "84",
+            "district": "Dewas",
+            "hospital": "Senior boys hostel bhounrasa",
+            "type": "hostel"
+        },
+        {
+            "sno": "85",
+            "district": "Dewas",
+            "hospital": "Govt Boys exellence school pipalrawa",
+            "type": "school"
+        },
+        {
+            "sno": "86",
+            "district": "Dewas",
+            "hospital": "Govt boys hostel gandarvpuri",
+            "type": "hostel"
+        },
+        {
+            "sno": "87",
+            "district": "Dewas",
+            "hospital": "junior girls hostel gram pilwani",
+            "type": "hostel"
+        },
+        {
+            "sno": "88",
+            "district": "Dewas",
+            "hospital": "Girls Hostel Agera",
+            "type": "hostel"
+        },
+        {
+            "sno": "89",
+            "district": "Dewas",
+            "hospital": "Doltatpur rest house",
+            "type": "rest house"
+        },
+        {
+            "sno": "90",
+            "district": "Dewas",
+            "hospital": "Hotel Palas Palace(Lodge) khategaon",
+            "type": "hotel"
+        },
+        {
+            "sno": "91",
+            "district": "Dewas",
+            "hospital": "Chhaya palace (Lodge)khategaon",
+            "type": "hotel"
+        },
+        {
+            "sno": "92",
+            "district": "Dewas",
+            "hospital": "Shrikrishna Palace (Lodge) Khategaon",
+            "type": "hotel"
+        },
+        {
+            "sno": "93",
+            "district": "Dewas",
+            "hospital": "Kotel Sawariya Palace (Lodge) Khategaon",
+            "type": "hotel"
+        },
+        {
+            "sno": "94",
+            "district": "Dewas",
+            "hospital": "Sourav Lodge khategaon",
+            "type": "hotel"
+        },
+        {
+            "sno": "95",
+            "district": "Dewas",
+            "hospital": "Hotel Oso Palace(Lodge) khategaon",
+            "type": "hotel"
+        },
+        {
+            "sno": "96",
+            "district": "Dewas",
+            "hospital": "Cummunity hall nagarpantayat  Khategaon",
+            "type": "community hall"
+        },
+        {
+            "sno": "97",
+            "district": "Dewas",
+            "hospital": "Ambedkar bhavan Nagarpanchayat khategaon",
+            "type": "community hall"
+        },
+        {
+            "sno": "98",
+            "district": "Dewas",
+            "hospital": "Sanskrtik bhavan garden parisar Nagarpanchayat khategaon",
+            "type": "community hall"
+        },
+        {
+            "sno": "99",
+            "district": "Dewas",
+            "hospital": "Indrprast garden",
+            "type": "hotel"
+        },
+        {
+            "sno": "100",
+            "district": "Dewas",
+            "hospital": "Nikunj marriage garden khategaon",
+            "type": "hotel"
+        },
+        {
+            "sno": "101",
+            "district": "Dewas",
+            "hospital": "Mahakal marriage garden khategaon",
+            "type": "hotel"
+        },
+        {
+            "sno": "102",
+            "district": "Dewas",
+            "hospital": "Model school hostel khategaon",
+            "type": "hostel"
+        },
+        {
+            "sno": "103",
+            "district": "Dewas",
+            "hospital": "Shedule cast boys hostel khategaon",
+            "type": "hostel"
+        },
+        {
+            "sno": "104",
+            "district": "Dewas",
+            "hospital": "Shedule tribe boys hostel khategaon",
+            "type": "hostel"
+        },
+        {
+            "sno": "105",
+            "district": "Dewas",
+            "hospital": "girls hostel khategaon",
+            "type": "hostel"
+        },
+        {
+            "sno": "106",
+            "district": "Dewas",
+            "hospital": "Agrwal lodge khategaon",
+            "type": "hotel"
+        },
+        {
+            "sno": "107",
+            "district": "Dewas",
+            "hospital": "Jain Dharmsala",
+            "type": " Dharmshala "
+        },
+        {
+            "sno": "108",
+            "district": "Dewas",
+            "hospital": "Jijotiya Dharmsala khategaon",
+            "type": " Dharmshala "
+        },
+        {
+            "sno": "109",
+            "district": "Dewas",
+            "hospital": "Yadav Dharmshala khategaon",
+            "type": " Dharmshala "
+        },
+        {
+            "sno": "110",
+            "district": "Dewas",
+            "hospital": "Kalota samaj Dharmsala khategaon",
+            "type": " Dharmshala "
+        },
+        {
+            "sno": "111",
+            "district": "Dewas",
+            "hospital": "Jat Boding Khategaon",
+            "type": "hostel"
+        },
+        {
+            "sno": "112",
+            "district": "Dewas",
+            "hospital": "Gurjar hostel khategaon",
+            "type": "hostel"
+        },
+        {
+            "sno": "113",
+            "district": "Dewas",
+            "hospital": "Shedule cast girls hostel khategaon",
+            "type": "hostel"
+        },
+        {
+            "sno": "114",
+            "district": "Dewas",
+            "hospital": "Shedule cast junior girls hostel khategaon",
+            "type": "hostel"
+        },
+        {
+            "sno": "115",
+            "district": "Dewas",
+            "hospital": "Adiwasi girls hostel khategaon",
+            "type": "hostel"
+        },
+        {
+            "sno": "116",
+            "district": "Dewas",
+            "hospital": " SC St exellence girls  hostel khategaon",
+            "type": "hostel"
+        },
+        {
+            "sno": "117",
+            "district": "Dewas",
+            "hospital": "Kasturba gandhi girls hostel khategaon",
+            "type": "hostel"
+        },
+        {
+            "sno": "118",
+            "district": "Dewas",
+            "hospital": "Ann chetr nemawer",
+            "type": "hall"
+        },
+        {
+            "sno": "119",
+            "district": "Dewas",
+            "hospital": "Sant Singaji dharmshala nemawer",
+            "type": " Dharmshala "
+        },
+        {
+            "sno": "120",
+            "district": "Dewas",
+            "hospital": "Sahu samaj dharmsala nemawer",
+            "type": " Dharmshala "
+        },
+        {
+            "sno": "121",
+            "district": "Dewas",
+            "hospital": "Sendhav  samaj dharmsala nemawer",
+            "type": " Dharmshala "
+        },
+        {
+            "sno": "122",
+            "district": "Dewas",
+            "hospital": "Parmar samaj dharmsala nemawer",
+            "type": " Dharmshala "
+        },
+        {
+            "sno": "123",
+            "district": "Dewas",
+            "hospital": "Nagdhah agnihotri samaj dharmsala  nenawer",
+            "type": " Dharmshala "
+        },
+        {
+            "sno": "124",
+            "district": "Dewas",
+            "hospital": "Adigod barmsamj dharmsala nemawer",
+            "type": " Dharmshala "
+        },
+        {
+            "sno": "125",
+            "district": "Dewas",
+            "hospital": "Dhangar samaj dharmsala nemawer",
+            "type": " Dharmshala "
+        },
+        {
+            "sno": "126",
+            "district": "Dewas",
+            "hospital": "Gurjar  samaj dharmsala nemawer",
+            "type": " Dharmshala "
+        },
+        {
+            "sno": "127",
+            "district": "Dewas",
+            "hospital": "Kannod bale seth ki dharmsala nemawer",
+            "type": " Dharmshala "
+        },
+        {
+            "sno": "128",
+            "district": "Dewas",
+            "hospital": "Mfar Sewa hostel Nemawer",
+            "type": "hostel"
+        },
+        {
+            "sno": "129",
+            "district": "Dewas",
+            "hospital": "Gurukul sanskrit pith nemawer",
+            "type": " Dharmshala "
+        },
+        {
+            "sno": "130",
+            "district": "Dewas",
+            "hospital": "Asram shala nemawer",
+            "type": " Dharmshala "
+        },
+        {
+            "sno": "131",
+            "district": "Dewas",
+            "hospital": "Shedule tribe boys hostel harangaon",
+            "type": "hostel"
+        },
+        {
+            "sno": "132",
+            "district": "Dhar",
+            "hospital": "Hotel Vijay , Multhan, Badnawar",
+            "type": "Hotel "
+        },
+        {
+            "sno": "133",
+            "district": "Dhar",
+            "hospital": "Chandra Lila Garden , Badnawar",
+            "type": "community Hall"
+        },
+        {
+            "sno": "134",
+            "district": "Dhar",
+            "hospital": "Mohankheda Jain Tirth , Rajgadh",
+            "type": "Other instituion"
+        },
+        {
+            "sno": "135",
+            "district": "Dhar",
+            "hospital": "Manav Seva Hospital Rajgadh",
+            "type": "Other instituion"
+        },
+        {
+            "sno": "136",
+            "district": "Dhar",
+            "hospital": "Govt. Model School Bagh",
+            "type": "Other instituion"
+        },
+        {
+            "sno": "137",
+            "district": "Dhar",
+            "hospital": "Civil Hospital Kukshi new building ",
+            "type": "Health centre "
+        },
+        {
+            "sno": "138",
+            "district": "Dhar",
+            "hospital": "Junior Hostel Dahi",
+            "type": "Hostel"
+        },
+        {
+            "sno": "139",
+            "district": "Dhar",
+            "hospital": "Girls Hostel Dahi",
+            "type": "Hostel"
+        },
+        {
+            "sno": "140",
+            "district": "Dhar",
+            "hospital": "Girls Hostel Gandhwani",
+            "type": "Hostel"
+        },
+        {
+            "sno": "141",
+            "district": "Dhar",
+            "hospital": "Rathore Dharmshala Gandhwani",
+            "type": "Other instituion"
+        },
+        {
+            "sno": "142",
+            "district": "Dhar",
+            "hospital": "Perfect School Manawar",
+            "type": "Other instituion"
+        },
+        {
+            "sno": "143",
+            "district": "Dhar",
+            "hospital": "Kalyanpura Model school Bakaner",
+            "type": "Other instituion"
+        },
+        {
+            "sno": "144",
+            "district": "Dhar",
+            "hospital": "IIT College Dhamnod ",
+            "type": "Other instituion"
+        },
+        {
+            "sno": "145",
+            "district": "Dhar",
+            "hospital": "Model School Nalchha ",
+            "type": "Other instituion"
+        },
+        {
+            "sno": "146",
+            "district": "Dhar",
+            "hospital": "Industrial Training Centre Pithampur",
+            "type": "Other instituion"
+        },
+        {
+            "sno": "147",
+            "district": "Dhar",
+            "hospital": "Bank of India Training centre Dhar",
+            "type": "Other instituion"
+        },
+        {
+            "sno": "148",
+            "district": "Dhar",
+            "hospital": "Tribal Hostel Mandu Road Dhar ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "149",
+            "district": "Guna",
+            "hospital": "DH Guna (CCC)",
+            "type": "HOSPITAL "
+        },
+        {
+            "sno": "150",
+            "district": "Guna",
+            "hospital": "Sakshi Medical Collage",
+            "type": "HOSPITAL "
+        },
+        {
+            "sno": "151",
+            "district": "Gwalior",
+            "hospital": "SHYAM VATIKA (30)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "152",
+            "district": "Gwalior",
+            "hospital": "RHWTC (24)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "153",
+            "district": "Gwalior",
+            "hospital": "SHWTC (28)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "154",
+            "district": "Gwalior",
+            "hospital": "VIDHI CHAND (60)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "155",
+            "district": "Gwalior",
+            "hospital": "SAHYOG GARDEN (10)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "156",
+            "district": "Gwalior",
+            "hospital": "SATKAR LODGE (20)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "157",
+            "district": "Gwalior",
+            "hospital": "RHFWTC",
+            "type": "Hostel"
+        },
+        {
+            "sno": "158",
+            "district": "Gwalior",
+            "hospital": "SIHMC",
+            "type": "Hostel"
+        },
+        {
+            "sno": "159",
+            "district": "Gwalior",
+            "hospital": "Shyam Vatika",
+            "type": "Comunity Hall"
+        },
+        {
+            "sno": "160",
+            "district": "Gwalior",
+            "hospital": "Ready Made Garment Park",
+            "type": "Other Institution"
+        },
+        {
+            "sno": "161",
+            "district": "Gwalior",
+            "hospital": "Dabra CH",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "162",
+            "district": "Gwalior",
+            "hospital": "Hastinapur",
+            "type": " Health Centre"
+        },
+        {
+            "sno": "163",
+            "district": "Harda",
+            "hospital": "Government Boys Excellence Hostel, Harda",
+            "type": "Hostel"
+        },
+        {
+            "sno": "164",
+            "district": "Harda",
+            "hospital": "Government Post metric Scheduled caste Boys Excellence Hostel, Harda",
+            "type": "Hostel"
+        },
+        {
+            "sno": "165",
+            "district": "Harda",
+            "hospital": "Government Boys Excellence Hostel, Timarani",
+            "type": "Hostel"
+        },
+        {
+            "sno": "166",
+            "district": "Harda",
+            "hospital": "Government SC Girls Hostel, Timarani",
+            "type": "Hostel"
+        },
+        {
+            "sno": "167",
+            "district": "Harda",
+            "hospital": "Government Pre metric Scheduled caste Boys Excellence Hostel, Rahatgaon",
+            "type": "Hostel"
+        },
+        {
+            "sno": "168",
+            "district": "Harda",
+            "hospital": "Government Scheduled caste Senior girls Hostel, Rahatgaon",
+            "type": "Hostel"
+        },
+        {
+            "sno": "169",
+            "district": "Harda",
+            "hospital": "Government Premetric Boys Hostel Chhipabad, Khirkiya",
+            "type": "Hostel"
+        },
+        {
+            "sno": "170",
+            "district": "Harda",
+            "hospital": "Government Kasturba Girls Hostel, Khirkiya",
+            "type": "Hostel"
+        },
+        {
+            "sno": "171",
+            "district": "Harda",
+            "hospital": "GOVERNMENT PREMETRIC GIRLS HOSTEL, KHIRKIYA",
+            "type": "Hostel"
+        },
+        {
+            "sno": "172",
+            "district": "Harda",
+            "hospital": "GOVERNMENT PREMETRIC BOYS HOSTEL SIRALI, KHIRKIYA",
+            "type": "Hostel"
+        },
+        {
+            "sno": "173",
+            "district": "Harda",
+            "hospital": "AADIWASI BALAK AASHRAM KHUDIYA, KHIRKIYA",
+            "type": "Hostel"
+        },
+        {
+            "sno": "174",
+            "district": "Harda",
+            "hospital": "GOVERNMENT SENIOR SC GIRLS HOSTEL, HANDIA",
+            "type": "Hostel"
+        },
+        {
+            "sno": "175",
+            "district": "Indore",
+            "hospital": "GVT. MY HOSPITAL ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "176",
+            "district": "Indore",
+            "hospital": "CHL HOSPITAL ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "177",
+            "district": "Indore",
+            "hospital": "APOLLO RAJSHRI HOSPITAL & RESEARCH CENTER ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "178",
+            "district": "Indore",
+            "hospital": "BHANDARI HOSPITAL &RESEARCH CENTER ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "179",
+            "district": "Indore",
+            "hospital": "MEDANTA HOSPITAL ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "180",
+            "district": "Indore",
+            "hospital": "LIFE CARE HOSPITAL ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "181",
+            "district": "Indore",
+            "hospital": "GLOBAL SNG HOSPITAL",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "182",
+            "district": "Indore",
+            "hospital": "GREATER KELASH HOSPITAL ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "183",
+            "district": "Indore",
+            "hospital": "GURJAR  HOSPITAL ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "184",
+            "district": "Indore",
+            "hospital": "BOMBAY HOSPITAL ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "185",
+            "district": "Indore",
+            "hospital": "APPELE HOSPITAL ",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "186",
+            "district": "Indore",
+            "hospital": "VISHESH DAIGNOSTIC",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "187",
+            "district": "Indore",
+            "hospital": "Sewakunj Hospital",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "188",
+            "district": "Indore",
+            "hospital": "Index Hospital Nemwar",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "189",
+            "district": "Indore",
+            "hospital": "Hotel Amar vilas",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "190",
+            "district": "Indore",
+            "hospital": "Hotel President",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "191",
+            "district": "Indore",
+            "hospital": "Hotel Waterlilli",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "192",
+            "district": "Indore",
+            "hospital": "Old GDC Campus hostel",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "193",
+            "district": "Indore",
+            "hospital": "DAVV University ST Hostel",
+            "type": "Other Government Medical College"
+        },
+        {
+            "sno": "194",
+            "district": "Jabalpur",
+            "hospital": "NURSING TRAINING CENTRE (40)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "195",
+            "district": "Jabalpur",
+            "hospital": "DELIGHT GRAND (20)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "196",
+            "district": "Jabalpur",
+            "hospital": "BK CASTLE (30)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "197",
+            "district": "Jabalpur",
+            "hospital": "HOTEL KRISHNA (20)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "198",
+            "district": "Jabalpur",
+            "hospital": "SAMDARIA HOTEL (20)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "199",
+            "district": "Jabalpur",
+            "hospital": "HOTEL ARIHANT (20)",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "200",
+            "district": "jabalpur",
+            "hospital": "RAILWAY HOSPITAL",
+            "type": "Govt Hospital"
+        },
+        {
+            "sno": "201",
+            "district": "jabalpur",
+            "hospital": "Military Hospital",
+            "type": "Govt Hospital"
+        },
+        {
+            "sno": "202",
+            "district": "Jhabua",
+            "hospital": "GNM Training Centre",
+            "type": "Hostel"
+        },
+        {
+            "sno": "203",
+            "district": "Jhabua",
+            "hospital": "Utkrast Balak Chhatrawas Jhabua",
+            "type": "Hostel"
+        },
+        {
+            "sno": "204",
+            "district": "Jhabua",
+            "hospital": "Kida Parisar Hawai Patti Jhabua",
+            "type": "community Hall"
+        },
+        {
+            "sno": "205",
+            "district": "Jhabua",
+            "hospital": "Navin ITI Bhawan Meghnaghar",
+            "type": "Hostel"
+        },
+        {
+            "sno": "206",
+            "district": "Jhabua",
+            "hospital": "Navin ITI Bhawan Thandla",
+            "type": "Hostel"
+        },
+        {
+            "sno": "207",
+            "district": "Jhabua",
+            "hospital": "Navin Civil Hospital Bhawan Petlawad",
+            "type": "Hostel"
+        },
+        {
+            "sno": "208",
+            "district": "Jhabua",
+            "hospital": "Janjatiya Siniar Balak Chhatrawas Jhabua Kramank-1",
+            "type": "Hostel"
+        },
+        {
+            "sno": "209",
+            "district": "Jhabua",
+            "hospital": "Janjatiya Siniar Balak Chhatrawas Jhabua Kramank-2",
+            "type": "Hostel"
+        },
+        {
+            "sno": "210",
+            "district": "Jhabua",
+            "hospital": "Janjatiya Siniar Balak Chhatrawas Jhabua Kramank-3",
+            "type": "Hostel"
+        },
+        {
+            "sno": "211",
+            "district": "Jhabua",
+            "hospital": "Kasturba Gandhi Balak Chhatrawas Jhabua",
+            "type": "Hostel"
+        },
+        {
+            "sno": "212",
+            "district": "Jhabua",
+            "hospital": "Balak Chhatrawas Kalyanpura",
+            "type": "Hostel"
+        },
+        {
+            "sno": "213",
+            "district": "Jhabua",
+            "hospital": "Kanya Chhatrawas Kalyanpura",
+            "type": "Hostel"
+        },
+        {
+            "sno": "214",
+            "district": "Jhabua",
+            "hospital": "Balak Chhatrawas Ranapur Kramank-1",
+            "type": "Hostel"
+        },
+        {
+            "sno": "215",
+            "district": "Jhabua",
+            "hospital": "Balak Chhatrawas Ranapur Kramank-2",
+            "type": "Hostel"
+        },
+        {
+            "sno": "216",
+            "district": "Jhabua",
+            "hospital": "Balak Utkrast Chhatrawas Ranapur",
+            "type": "Hostel"
+        },
+        {
+            "sno": "217",
+            "district": "Jhabua",
+            "hospital": "Balak Chhatrawas Kundanpur",
+            "type": "Hostel"
+        },
+        {
+            "sno": "218",
+            "district": "Jhabua",
+            "hospital": "Kasturba Gandhi Balak Chhatrawas Ranapur",
+            "type": "Hostel"
+        },
+        {
+            "sno": "219",
+            "district": "Jhabua",
+            "hospital": "Kanya Chhatrawas Machhaliya",
+            "type": "Hostel"
+        },
+        {
+            "sno": "220",
+            "district": "Jhabua",
+            "hospital": "Balak Chhatrawas Machhaliya",
+            "type": "Hostel"
+        },
+        {
+            "sno": "221",
+            "district": "Jhabua",
+            "hospital": "Kanya Ashram Kokawad",
+            "type": "Hostel"
+        },
+        {
+            "sno": "222",
+            "district": "Jhabua",
+            "hospital": "Kasturba Gandhi Balak Chhatrawas Rama",
+            "type": "Hostel"
+        },
+        {
+            "sno": "223",
+            "district": "Jhabua",
+            "hospital": "Balak Chhatrawas Kalidevi",
+            "type": "Hostel"
+        },
+        {
+            "sno": "224",
+            "district": "Jhabua",
+            "hospital": "Shiksha Parisar Rama",
+            "type": "Other Institution"
+        },
+        {
+            "sno": "225",
+            "district": "Jhabua",
+            "hospital": "Kasturba Gandhi Balak Chhatrawas Meghnaghar",
+            "type": "Hostel"
+        },
+        {
+            "sno": "226",
+            "district": "Jhabua",
+            "hospital": "Janjatiya Seniar Balak Chhatrawas Nogawa",
+            "type": "Hostel"
+        },
+        {
+            "sno": "227",
+            "district": "Jhabua",
+            "hospital": "Janjatiya Seniar Balak Utkrast Chhatrawas Meghnaghar",
+            "type": "Hostel"
+        },
+        {
+            "sno": "228",
+            "district": "Jhabua",
+            "hospital": "Janjatiya Seniar Kanya Utkrast Chhatrawas Meghnaghar",
+            "type": "Hostel"
+        },
+        {
+            "sno": "229",
+            "district": "Jhabua",
+            "hospital": "Balak Ashram Angeji Madhyam Meghnaghar",
+            "type": "Hostel"
+        },
+        {
+            "sno": "230",
+            "district": "Jhabua",
+            "hospital": "Kanya Ahsram Nogawa",
+            "type": "Hostel"
+        },
+        {
+            "sno": "231",
+            "district": "Jhabua",
+            "hospital": "Kanya Shiksha Parisar Meghnaghar",
+            "type": "Hostel"
+        },
+        {
+            "sno": "232",
+            "district": "Jhabua",
+            "hospital": "Aklawya Adarsha Awashiya Balak Chhatrawas Agral",
+            "type": "Hostel"
+        },
+        {
+            "sno": "233",
+            "district": "Jhabua",
+            "hospital": "Kasturba Gandhi Balak Chhatrawas Thandla",
+            "type": "Hostel"
+        },
+        {
+            "sno": "234",
+            "district": "Jhabua",
+            "hospital": "Balak Post Metrik Thandla",
+            "type": "Hostel"
+        },
+        {
+            "sno": "235",
+            "district": "Jhabua",
+            "hospital": "Kanya Shisha parisar Thandla",
+            "type": "Hostel"
+        },
+        {
+            "sno": "236",
+            "district": "Jhabua",
+            "hospital": "Kanya Ashram Angreji Madhyam Thandla",
+            "type": "Hostel"
+        },
+        {
+            "sno": "237",
+            "district": "Jhabua",
+            "hospital": "Kasturba Gandhi Balak Chhatrawas  Petlawad",
+            "type": "Hostel"
+        },
+        {
+            "sno": "238",
+            "district": "Jhabua",
+            "hospital": "kanya Shiksha Parisar Petlawad",
+            "type": "Other Institution"
+        },
+        {
+            "sno": "239",
+            "district": "Jhabua",
+            "hospital": "Kanya Ashram Angeji Madhyam Petlawad",
+            "type": "Hostel"
+        },
+        {
+            "sno": "240",
+            "district": "Jhabua",
+            "hospital": "Balak Chhatrawas Sarangi",
+            "type": "Hostel"
+        },
+        {
+            "sno": "241",
+            "district": "Jhabua",
+            "hospital": "Balak Chhatrawas Karwad",
+            "type": "Hostel"
+        },
+        {
+            "sno": "242",
+            "district": "Jhabua",
+            "hospital": "Kanya Chhatrawas Karwad",
+            "type": "Hostel"
+        },
+        {
+            "sno": "243",
+            "district": "Jhabua",
+            "hospital": "Balak Ashram Dhaniya",
+            "type": "Hostel"
+        },
+        {
+            "sno": "244",
+            "district": "Katni",
+            "hospital": "Katurba Gandhi Girls Hostel",
+            "type": "Hostel"
+        },
+        {
+            "sno": "245",
+            "district": "Katni",
+            "hospital": "Anusuchit Jati Boys Hostel",
+            "type": "Hostel"
+        },
+        {
+            "sno": "246",
+            "district": "Katni",
+            "hospital": "Anusuchit Jati Utkarst Girls Hostel",
+            "type": "Hostel"
+        },
+        {
+            "sno": "247",
+            "district": "Katni",
+            "hospital": "Hotel Raj Palace",
+            "type": "Hotel/ Marriage Garden"
+        },
+        {
+            "sno": "248",
+            "district": "Katni",
+            "hospital": "Jain Dharmshalla",
+            "type": "Community Hall"
+        },
+        {
+            "sno": "249",
+            "district": "Katni",
+            "hospital": "Jain Goshala Shiv Nagar",
+            "type": "Community Hall"
+        },
+        {
+            "sno": "250",
+            "district": "Katni",
+            "hospital": "Shenai Marriage Garden",
+            "type": "Marriage Garden"
+        },
+        {
+            "sno": "251",
+            "district": "Katni",
+            "hospital": "Nandan Khana Marriage Garden",
+            "type": "Marriage Garden"
+        },
+        {
+            "sno": "252",
+            "district": "Katni",
+            "hospital": "Radhika Marriage Garden",
+            "type": "Hotel/Marriage Garden"
+        },
+        {
+            "sno": "253",
+            "district": "Katni",
+            "hospital": "Divanchal Marriage Garden",
+            "type": "Marriage Garden"
+        },
+        {
+            "sno": "254",
+            "district": "Katni",
+            "hospital": "Gulmohar Marriage Garden",
+            "type": "Marriage Garden"
+        },
+        {
+            "sno": "255",
+            "district": "Katni",
+            "hospital": "Jalsa Marriage Garden",
+            "type": "Marriage Garden"
+        },
+        {
+            "sno": "256",
+            "district": "Katni",
+            "hospital": "Vedansh Marriage Garden",
+            "type": "Marriage Garden"
+        },
+        {
+            "sno": "257",
+            "district": "Khandwa",
+            "hospital": "Medical Colegge block A",
+            "type": "New Government Medical College"
+        },
+        {
+            "sno": "258",
+            "district": "Khargone",
+            "hospital": "GOVT HOSTAL JHIRNIYA ",
+            "type": "HOSTAL"
+        },
+        {
+            "sno": "259",
+            "district": "Khargone",
+            "hospital": "PARADISE SCHOOL SEGAON ",
+            "type": "SCHOOL"
+        },
+        {
+            "sno": "260",
+            "district": "Khargone",
+            "hospital": "GOVT SENIOR MODEL POST MATRIC ST BOYS HOSTAL BHIKANGAON",
+            "type": "HOSTAL"
+        },
+        {
+            "sno": "261",
+            "district": "Khargone",
+            "hospital": "ITI BHAGWAPURA",
+            "type": "OTHER INSTITUTION "
+        },
+        {
+            "sno": "262",
+            "district": "Khargone",
+            "hospital": "HIGHER SECONDARY SCHOOL DEVNALIYA ",
+            "type": "SCHOOL"
+        },
+        {
+            "sno": "263",
+            "district": "Khargone",
+            "hospital": "GOVT BOYS HOSTAL SIRVEL ",
+            "type": "HOSTAL"
+        },
+        {
+            "sno": "264",
+            "district": "Khargone",
+            "hospital": "PM AAWAS COMPLEX TEMLA ROAD KHARGONE",
+            "type": "OTHER INSTITUTION "
+        },
+        {
+            "sno": "265",
+            "district": "Khargone",
+            "hospital": "PM AAWAS COMPLEX TEMLA ROAD KHARGONE",
+            "type": "OTHER INSTITUTION "
+        },
+        {
+            "sno": "266",
+            "district": "Khargone",
+            "hospital": "GOVT BOYS HOSTAL DAMKHEDA ",
+            "type": "HOSTAL"
+        },
+        {
+            "sno": "267",
+            "district": "Khargone",
+            "hospital": "AADIVASI UTKRASTH HOSTEL GOGAWA",
+            "type": "HOSTAL"
+        },
+        {
+            "sno": "268",
+            "district": "Khargone",
+            "hospital": "CHORASIYA LAUDGE BARWAH ",
+            "type": "HOTEL "
+        },
+        {
+            "sno": "269",
+            "district": "Mandla",
+            "hospital": "HOTEL R K MANDLA",
+            "type": "HOTEL"
+        },
+        {
+            "sno": "270",
+            "district": "Mandsaur",
+            "hospital": "GNMTC Mandsaur",
+            "type": "Hostel "
+        },
+        {
+            "sno": "271",
+            "district": "Mandsaur",
+            "hospital": "In Blocks ",
+            "type": "Hostel "
+        },
+        {
+            "sno": "272",
+            "district": "Mandla",
+            "hospital": "HOTEL R K MANDLA",
+            "type": "Hostel "
+        },
+        {
+            "sno": "273",
+            "district": "Morena",
+            "hospital": "KGBV Hostel",
+            "type": "Hostel "
+        },
+        {
+            "sno": "274",
+            "district": "Morena",
+            "hospital": "Tribal Hostel",
+            "type": "Hostel "
+        },
+        {
+            "sno": "275",
+            "district": "Morena",
+            "hospital": "Govt Kasturba Girls Hostel",
+            "type": "Hostel"
+        },
+        {
+            "sno": "276",
+            "district": "Morena",
+            "hospital": "Govt  Girls Collage",
+            "type": "Hostel"
+        },
+        {
+            "sno": "277",
+            "district": "Narsinghpur",
+            "hospital": "Post Matric Hostel",
+            "type": "Hostel"
+        },
+        {
+            "sno": "278",
+            "district": "Narsinghpur",
+            "hospital": "Maheshwari Bhawan Gadarwara",
+            "type": "Other Institution "
+        },
+        {
+            "sno": "279",
+            "district": "Narsinghpur",
+            "hospital": "Goregaon Girls HostelKumdakheda",
+            "type": "Hostel"
+        },
+        {
+            "sno": "280",
+            "district": "Narsinghpur",
+            "hospital": "Tendukheda Boys Hostel",
+            "type": "Hostel"
+        },
+        {
+            "sno": "281",
+            "district": "Narsinghpur",
+            "hospital": "Ijjya Bhavan Kareli",
+            "type": "Other Institution "
+        },
+        {
+            "sno": "282",
+            "district": "Neemuch",
+            "hospital": "Vatsalya Bhawan",
+            "type": "Community Hall"
+        },
+        {
+            "sno": "283",
+            "district": "Neemuch",
+            "hospital": "Mahila Basti Grah Community Hall",
+            "type": "Community Hall"
+        },
+        {
+            "sno": "284",
+            "district": "Neemuch",
+            "hospital": "Samudayik Bhawan Nayagao",
+            "type": "Hotel"
+        },
+        {
+            "sno": "285",
+            "district": "Neemuch",
+            "hospital": "ANUSUCHIT JATI AND JANJATI BALAK CHHATRAWAS DIKEN",
+            "type": "Hotel"
+        },
+        {
+            "sno": "286",
+            "district": "Neemuch",
+            "hospital": "AADIM JATI CHHTRAWAS RATANGARH",
+            "type": "Community Hall"
+        },
+        {
+            "sno": "287",
+            "district": "Neemuch",
+            "hospital": "VIMUKT JATI CHHATRAWAS, JAWAD ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "288",
+            "district": "Neemuch",
+            "hospital": "JAWAR NAVODAY BALIKA CHHATRAWAS RAMPURA",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "289",
+            "district": "Neemuch",
+            "hospital": "K.G.B. CHHATRAWAS, KUKDESHWAR",
+            "type": "Health Centre"
+        },
+        {
+            "sno": "290",
+            "district": "Neemuch",
+            "hospital": "DVARIKA DHARMSHALA, MANASA",
+            "type": "Community Hall"
+        },
+        {
+            "sno": "291",
+            "district": "Neemuch",
+            "hospital": "AGRAWAL VIKASH SAMITI CSV AGROHA BHAWAN",
+            "type": "Community Hall"
+        },
+        {
+            "sno": "292",
+            "district": "Neemuch",
+            "hospital": "POST METRIC KANYA CHHTRAWAS KOTI",
+            "type": "Hostel"
+        },
+        {
+            "sno": "293",
+            "district": "Neemuch",
+            "hospital": "BHADWAMATA DHARMSHALA (ASTHA BHAWAN)",
+            "type": "Hostel"
+        },
+        {
+            "sno": "294",
+            "district": "Neemuch",
+            "hospital": "SAJJAN BAG RESORT",
+            "type": "Hostel"
+        },
+        {
+            "sno": "295",
+            "district": "Neemuch",
+            "hospital": "DEV RESIDENCY MOW ROAD",
+            "type": "Hostel"
+        },
+        {
+            "sno": "296",
+            "district": "Neemuch",
+            "hospital": "SENIOR ANUSUCHIT JATI KANYA CHHATRAWAD Singoli",
+            "type": "Hostel"
+        },
+        {
+            "sno": "297",
+            "district": "Raisen",
+            "hospital": "ANMTC ",
+            "type": "Training Centre"
+        },
+        {
+            "sno": "298",
+            "district": "Raisen",
+            "hospital": "Govt Girls Hostel",
+            "type": "Hostel"
+        },
+        {
+            "sno": "299",
+            "district": "Raisen",
+            "hospital": "Madarsa Patha Mohalla Gairatganj",
+            "type": "Gairatganj"
+        },
+        {
+            "sno": "300",
+            "district": "Raisen",
+            "hospital": "Ganhi Ashram Hostel Gairatganj",
+            "type": "Hostel"
+        },
+        {
+            "sno": "301",
+            "district": "Raisen",
+            "hospital": "J B Marriage Garden Obedullaganj Obedullaganj",
+            "type": "Marriage Garden"
+        },
+        {
+            "sno": "302",
+            "district": "Raisen",
+            "hospital": "Rahiv Gandhi Business Centre, Mandideep",
+            "type": "Other Institution"
+        },
+        {
+            "sno": "303",
+            "district": "Raisen",
+            "hospital": "SC Boys Hostel Bareli",
+            "type": "Hostel"
+        },
+        {
+            "sno": "304",
+            "district": "Raisen",
+            "hospital": "Girls Hostel Udaipura",
+            "type": "Hostel"
+        },
+        {
+            "sno": "305",
+            "district": "Rajgarh",
+            "hospital": "Politechnic college  Rajgarh",
+            "type": "College"
+        },
+        {
+            "sno": "306",
+            "district": "Rajgarh",
+            "hospital": "Central School Rajgarh",
+            "type": "School"
+        },
+        {
+            "sno": "307",
+            "district": "Rajgarh",
+            "hospital": "Adim Jati Kalyan Hostel Rajgarh",
+            "type": "Hostel"
+        },
+        {
+            "sno": "308",
+            "district": "Rajgarh",
+            "hospital": "District Training Center",
+            "type": "Training Center"
+        },
+        {
+            "sno": "309",
+            "district": "Rajgarh",
+            "hospital": "GNM Training Center Rajgarh",
+            "type": "College"
+        },
+        {
+            "sno": "310",
+            "district": "Ratlam",
+            "hospital": "Hotel Atithi Palace Sailana Road Ratlam",
+            "type": "Hotel"
+        },
+        {
+            "sno": "311",
+            "district": "Ratlam",
+            "hospital": "Hotel Heera Palace Sailana Road Ratlam",
+            "type": "Hotel"
+        },
+        {
+            "sno": "312",
+            "district": "Ratlam",
+            "hospital": "DH Nursing Hostel",
+            "type": "Institution"
+        },
+        {
+            "sno": "313",
+            "district": "Ratlam",
+            "hospital": "Eklavya Model School sailana Ratlam",
+            "type": "Institution"
+        },
+        {
+            "sno": "314",
+            "district": "Ratlam",
+            "hospital": "Boyes College Tal Alot Ratlam",
+            "type": "Institution"
+        },
+        {
+            "sno": "315",
+            "district": "Ratlam",
+            "hospital": "Swami Ji ki Kutiya Jaora Ratlam",
+            "type": "Other"
+        },
+        {
+            "sno": "316",
+            "district": "Ratlam",
+            "hospital": "ITI Building Bajna",
+            "type": "Institution"
+        },
+        {
+            "sno": "317",
+            "district": "Ratlam",
+            "hospital": "Boyes School Alot Ratlam",
+            "type": "Institution"
+        },
+        {
+            "sno": "318",
+            "district": "Ratlam",
+            "hospital": "Janta Parishar Jaora",
+            "type": "Community hall"
+        },
+        {
+            "sno": "319",
+            "district": "Ratlam",
+            "hospital": "Girl Hostel Ringnod Jaora",
+            "type": "Institution"
+        },
+        {
+            "sno": "320",
+            "district": "Ratlam",
+            "hospital": "Krishi Vigyan Kendra Jaora",
+            "type": "Institution"
+        },
+        {
+            "sno": "321",
+            "district": "Ratlam",
+            "hospital": "Boy Hostel Piploda",
+            "type": "Institution"
+        },
+        {
+            "sno": "322",
+            "district": "Ratlam",
+            "hospital": "Jain Dharmshala Sailana Ratlam",
+            "type": "Other"
+        },
+        {
+            "sno": "323",
+            "district": "Rewa",
+            "hospital": "Divisional Hostel Gyanoday",
+            "type": "Center"
+        },
+        {
+            "sno": "324",
+            "district": "Sagar",
+            "hospital": "DDRC Building",
+            "type": " Other instituion"
+        },
+        {
+            "sno": "325",
+            "district": "Satna",
+            "hospital": "GNM Hostel",
+            "type": "GNM Hostel Satna "
+        },
+        {
+            "sno": "326",
+            "district": "Sehore",
+            "hospital": "FHWTC Sehore",
+            "type": "Health Center Sehore"
+        },
+        {
+            "sno": "327",
+            "district": "Seoni",
+            "hospital": "OBC Hostel, Partapur Road, Bhairoganj, Seoni ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "328",
+            "district": "Shajapur",
+            "hospital": "Vradhashram Near Bapu Ki Kutiya ",
+            "type": "Other Institution"
+        },
+        {
+            "sno": "329",
+            "district": "Shajapur",
+            "hospital": "Excellence Girls Hostel, Shajapur ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "330",
+            "district": "Shajapur",
+            "hospital": "Quarantin Center ",
+            "type": "Other Institution"
+        },
+        {
+            "sno": "331",
+            "district": "Sheopur",
+            "hospital": "TRIBAL HOSTEL, BIRPUR, VIJAYPUR",
+            "type": "Hotel"
+        },
+        {
+            "sno": "332",
+            "district": "Sheopur",
+            "hospital": "HOTEL SAMWARIYAN, SHEOPUR",
+            "type": "Hostel"
+        },
+        {
+            "sno": "333",
+            "district": "Sheopur",
+            "hospital": "GIRLS HOSTEL MANDI, VIJAYPUR",
+            "type": "Hostel"
+        },
+        {
+            "sno": "334",
+            "district": "Sheopur",
+            "hospital": "S.C. GIRLS HOSTEL, BARODA",
+            "type": "Hostel"
+        },
+        {
+            "sno": "335",
+            "district": "Sheopur",
+            "hospital": "GOVT. GIRLS HOSTEL (SIDH PAHADIYA), VIJAYPUR",
+            "type": "Hostel"
+        },
+        {
+            "sno": "336",
+            "district": "Sheopur",
+            "hospital": "Block Karahal-Quarantine",
+            "type": "Hostel"
+        },
+        {
+            "sno": "337",
+            "district": "Sheopur",
+            "hospital": "HOSTAL, RATODHAN, BARODA",
+            "type": "Hostel"
+        },
+        {
+            "sno": "338",
+            "district": "Sheopur",
+            "hospital": "BOYS HOSTEL (SIDH PAHADIYA), VIJAYPUR",
+            "type": "ITI College"
+        },
+        {
+            "sno": "339",
+            "district": "Sheopur",
+            "hospital": "S.C. PRE MATRIC (SENIOR) GIRLS HOSTEL, BIYPASS ROAD, SHEOPUR",
+            "type": "Hostel"
+        },
+        {
+            "sno": "340",
+            "district": "Sheopur",
+            "hospital": "H.S. SCHOOL HOSTEL, SHEOPUR",
+            "type": "Hostel"
+        },
+        {
+            "sno": "341",
+            "district": "Sheopur",
+            "hospital": "ITI COLLEGE BUILDING, KARHAL,",
+            "type": "Hostel"
+        },
+        {
+            "sno": "342",
+            "district": "Sheopur",
+            "hospital": "S.C. DISTRICT LEVEL EXCELLENCE (SENIOR) GIRLS HOSTEL, SHEOPUR",
+            "type": "Hostel"
+        },
+        {
+            "sno": "343",
+            "district": "Sheopur",
+            "hospital": "OBC BOYS HOSTEL, SHEOPUR",
+            "type": "Hostel"
+        },
+        {
+            "sno": "344",
+            "district": "Shivpuri",
+            "hospital": "ANM Training Centre",
+            "type": "ANM Training Centre  shivpuri "
+        },
+        {
+            "sno": "345",
+            "district": "Shivpuri",
+            "hospital": "SAHARIYA HOSTEL  SHIVPURI ",
+            "type": "Hostel "
+        },
+        {
+            "sno": "346",
+            "district": "Shivpuri",
+            "hospital": "ADIWASI HOSTEL  SHIVPURI",
+            "type": "Hostel "
+        },
+        {
+            "sno": "347",
+            "district": "Shivpuri",
+            "hospital": "CRPF Quarantine SHIVPURI ",
+            "type": "Other Institution "
+        },
+        {
+            "sno": "348",
+            "district": "Singrauli",
+            "hospital": "ANMTC Waidhan",
+            "type": "Training Centre"
+        },
+        {
+            "sno": "349",
+            "district": "Singrauli",
+            "hospital": "GDC Bilounji",
+            "type": "collage"
+        },
+        {
+            "sno": "350",
+            "district": "Tikamgarh",
+            "hospital": "Hotal Siliver Resort",
+            "type": "Hotel"
+        },
+        {
+            "sno": "351",
+            "district": "Tikamgarh",
+            "hospital": "Hotal Fort View",
+            "type": "Hotel"
+        },
+        {
+            "sno": "352",
+            "district": "Tikamgarh",
+            "hospital": "Hotal White House",
+            "type": "Hotel"
+        },
+        {
+            "sno": "353",
+            "district": "Tikamgarh",
+            "hospital": "Hotal New White House",
+            "type": "Hotel"
+        },
+        {
+            "sno": "354",
+            "district": "Tikamgarh",
+            "hospital": "Hotel Chapati ",
+            "type": "Hotel"
+        },
+        {
+            "sno": "355",
+            "district": "Tikamgarh",
+            "hospital": "Hotal Apoorv",
+            "type": "Hotel"
+        },
+        {
+            "sno": "356",
+            "district": "Tikamgarh",
+            "hospital": "Hotal gaytri",
+            "type": "Hotel"
+        },
+        {
+            "sno": "357",
+            "district": "Tikamgarh",
+            "hospital": "Hotal anjali guest House",
+            "type": "Hotel"
+        },
+        {
+            "sno": "358",
+            "district": "Tikamgarh",
+            "hospital": "Hotal Crown Palace",
+            "type": "Hotel"
+        },
+        {
+            "sno": "359",
+            "district": "Tikamgarh",
+            "hospital": "Hotal Kanhiya palace",
+            "type": "Hotel"
+        },
+        {
+            "sno": "360",
+            "district": "Tikamgarh",
+            "hospital": "Hotal laxmi palace",
+            "type": "Hotel"
+        },
+        {
+            "sno": "361",
+            "district": "Ujjain",
+            "hospital": "Vikram vatika parisar girls tribal hostel",
+            "type": "Training Centre"
+        },
+        {
+            "sno": "362",
+            "district": "Ujjain",
+            "hospital": "Dashara Maidan Parisar RMSA Hostel",
+            "type": "Private Jain Community Hall"
+        },
+        {
+            "sno": "363",
+            "district": "Ujjain",
+            "hospital": "Ganoday Campus Lalpur Hostel",
+            "type": "Hostel"
+        },
+        {
+            "sno": "364",
+            "district": "Bhopal",
+            "hospital": "Advance medical college & SKS Hospital",
+            "type": "HOSPITAL "
+        },
+        {
+            "sno": "365",
+            "district": "Vidisha",
+            "hospital": "GMC Vidisha - CCC",
+            "type": "Center"
+        },
+        {
+            "sno": "366",
+            "district": "Vidisha",
+            "hospital": "Sati college ",
+            "type": "COLLEGE"
+        },
+        {
+            "sno": "367",
+            "district": "Sheopur",
+            "hospital": "TRIBAL GIRLS HOSTEL, AGRA, VIJAYPUR",
+            "type": "Hostel"
+        },
+        {
+            "sno": "368",
+            "district": "Sheopur",
+            "hospital": "GOVT. TRIBAL POST MATRIC (COLLEGE) GIRLS HOSTEL, SHEOPUR",
+            "type": "Hostel"
+        },
+        {
+            "sno": "369",
+            "district": "Sheopur",
+            "hospital": "TRIBAL BOYS HOSTEL, AGRA, VIJAYPUR",
+            "type": "Hostel"
+        },
+        {
+            "sno": "370",
+            "district": "Sheopur",
+            "hospital": "KASTURBA GANDHI BOYS HOSTEL, SHEOPUR",
+            "type": "Hostel"
+        },
+        {
+            "sno": "371",
+            "district": "Sheopur",
+            "hospital": "TRIBAL BOYS HOSTEL, PALPUR, VIJAYPUR",
+            "type": "Hostel"
+        },
+        {
+            "sno": "372",
+            "district": "Sheopur",
+            "hospital": "KASTURBA GANDHI GIRLS HOSTEL, SHEOPUR",
+            "type": "Hostel"
+        },
+        {
+            "sno": "373",
+            "district": "Balaghat",
+            "hospital": "Sardar Patel Homeopathic college",
+            "type": "COLLEGE"
+        },
+        {
+            "sno": "374",
+            "district": "Bhopal",
+            "hospital": "RKDF Medical College",
+            "type": "College"
+        },
+        {
+            "sno": "375",
+            "district": "Bhopal",
+            "hospital": "WALMI",
+            "type": "Center"
+        },
+        {
+            "sno": "376",
+            "district": "Bhopal",
+            "hospital": "Carrier Institute of health science and research Center Govindpura ",
+            "type": "Center"
+        },
+        {
+            "sno": "377",
+            "district": "Bhopal",
+            "hospital": "ESI hospital",
+            "type": "HOSPITAL "
+        },
+        {
+            "sno": "378",
+            "district": "Seoni",
+            "hospital": "Excilance Adivasi Boys Hostal Binjawada",
+            "type": "Hostel"
+        },
+        {
+            "sno": "379",
+            "district": "Seoni",
+            "hospital": "Senior Adivasi Boys Hostal  Binjawada Seoni  ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "380",
+            "district": "Seoni",
+            "hospital": "Collage Adivasi  Boys   Hostal Binjhawada ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "381",
+            "district": "Seoni",
+            "hospital": "Collage Adivasi Girls Hostal  Binjawada ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "382",
+            "district": "Seoni",
+            "hospital": "Adivasi Boys Ashram English  Binjawada  ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "383",
+            "district": "Seoni",
+            "hospital": "Forest School Lakhanadon ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "384",
+            "district": "Singrauli",
+            "hospital": "ANMTC Hostel bilounji",
+            "type": "Hostel"
+        },
+        {
+            "sno": "385",
+            "district": "Singrauli",
+            "hospital": "Jayant kalyan mandap ,(NCL )",
+            "type": "NCL )"
+        },
+        {
+            "sno": "386",
+            "district": "Singrauli",
+            "hospital": "Jayant Athletics Academy (NCL)",
+            "type": "NCL)"
+        },
+        {
+            "sno": "387",
+            "district": "Singrauli",
+            "hospital": "Amlori Kalyan mandap (NCL) ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "388",
+            "district": "Singrauli",
+            "hospital": "Senior,jr SC Boys hostel Mada ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "389",
+            "district": "Singrauli",
+            "hospital": "Senior,jr SC Girls  hostel Mada ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "390",
+            "district": "Singrauli",
+            "hospital": "Tribal Boys hostel ,Makrohar  ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "391",
+            "district": "Singrauli",
+            "hospital": "Jr. Boys hostel Baliyari waidhan ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "392",
+            "district": "Singrauli",
+            "hospital": "Tribal boys hostel Panjreh ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "393",
+            "district": "Singrauli",
+            "hospital": "Jr.Tribal boys hostel Panjreh",
+            "type": "Hostel"
+        },
+        {
+            "sno": "394",
+            "district": "Barwani",
+            "hospital": "Jamli hostel ,Barwani ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "395",
+            "district": "Barwani",
+            "hospital": "Girls hostel , Barwani ",
+            "type": "Hostel"
+        },
+        {
+            "sno": "396",
+            "district": "Umaria",
+            "hospital": "Karkeli Post metric OBC boys hostel",
+            "type": "Hostel"
+        },
+        {
+            "sno": "397",
+            "district": "Umaria",
+            "hospital": "Manpur Rainbow Resort",
+            "type": "Center"
+        },
+        {
+            "sno": "398",
+            "district": "Umaria",
+            "hospital": "Pali Old building",
+            "type": "Center"
+        },
+        {
+            "sno": "399",
+            "district": "Shahdol",
+            "hospital": "ANMTC Shahdol",
+            "type": "Center"
+        },
+        {
+            "sno": "400",
+            "district": "Hoshangabad",
+            "hospital": "Pawarkheda ",
+            "type": "Center"
+        },
+        {
+            "sno": "401",
+            "district": "Dindori",
+            "hospital": "Eklavya school",
+            "type": "SCHOOL"
+        },
+        {
+            "sno": "402",
+            "district": "Guna",
+            "hospital": "Eklavya Chhatrawas",
+            "type": "CHHATRAWAS"
+        },
+        {
+            "sno": "403",
+            "district": "Guna",
+            "hospital": "Sara Hotel Guna",
+            "type": "Center"
+        },
+        {
+            "sno": "404",
+            "district": "Guna",
+            "hospital": "Raj Villas",
+            "type": "VILLAS"
+        },
+        {
+            "sno": "405",
+            "district": "Guna",
+            "hospital": "Samarsingha",
+            "type": "Center"
+        },
+        {
+            "sno": "406",
+            "district": "Guna",
+            "hospital": "Kasturi Marriage Garden",
+            "type": "Center"
+        },
+        {
+            "sno": "407",
+            "district": "Guna",
+            "hospital": "Narayan Marriage Garden",
+            "type": "Center"
+        },
+        {
+            "sno": "408",
+            "district": "Guna",
+            "hospital": "G K Jain Hotel",
+            "type": "HOTEL"
+        },
+        {
+            "sno": "409",
+            "district": "Guna",
+            "hospital": "Satyam Hotel",
+            "type": "HOTEL"
+        },
+        {
+            "sno": "410",
+            "district": "Guna",
+            "hospital": "Jagat Residency",
+            "type": "RESIDENCY"
+        }
+    ]
+}

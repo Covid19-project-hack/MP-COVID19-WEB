@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "name": "All India Institute of Medical Sciences, Bhopal",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "2",
+            "name": " ICMR National Institute for Research on Tribal Health, Jabalpur ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "3",
+            "name": " Mahatma Gandhi Memorial Medical College, Indore",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "4",
+            "name": " Gandhi Medical College, Bhopal",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "5",
+            "name": " Bhopal Memorial Hospital research Centre, Bhopal",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "6",
+            "name": " Gajra Raja Medical College, Gwalior",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "7",
+            "name": " Bundelkhand Medical College, Sagar",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "8",
+            "name": " SS Medical College, Rewa",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "9",
+            "name": " Defence Research Development Organization, Gwalior",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "10",
+            "name": " ICAR NIHSAD, Bhopal",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "11",
+            "name": " Govt Medical College, Ratlam",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "12",
+            "name": " Netaji Subhash Chandra Bose Medical College, Jabalpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "13",
+            "name": " Govt Medical College, Khandwa",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "14",
+            "name": " Atal Bihari Vajpayee Government Medical College ABVGMC , Vidisha",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "15",
+            "name": " IISER, Bhopal ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "16",
+            "name": " District Tuberculosis Centre, Bhopal",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "17",
+            "name": " District Hospital Gwalior",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "18",
+            "name": " District Hospital Morena",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "19",
+            "name": " District Hospital Chhatarpur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "20",
+            "name": " District Hospital Damoh",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "21",
+            "name": " District Hospital Sagar",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "22",
+            "name": " District Hospital Tikamgarh ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "23",
+            "name": " District Hospital, Mandsaur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "24",
+            "name": " District Hospital, Neemuch",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "25",
+            "name": " District Tuberculosis Centre, Indore",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "26",
+            "name": " District Hospital Chhindwara",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "27",
+            "name": " District Hospital, Jabalpur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "28",
+            "name": " District Hospital, Shahdol",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "29",
+            "name": " District Hospital, Burhanpur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "30",
+            "name": " District Hospital, Singrauli",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "31",
+            "name": " District Tuberculosis Centre, Raisen",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "32",
+            "name": " District Hospital, Bhind",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "33",
+            "name": " District Hospital, Datia",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "34",
+            "name": " District Hospital, Sheopur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "35",
+            "name": " District Hospital, Shivpuri",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "36",
+            "name": " District Hospital, Alirazpur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "37",
+            "name": " District Hospital, Barwani",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "38",
+            "name": " District Hospital, Dhar",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "39",
+            "name": " District Hospital, Jhabua",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "40",
+            "name": " District Hospital, Khargone",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "41",
+            "name": " District Hospital, Agarmalwa",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "42",
+            "name": " District Hospital, Shajapur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "43",
+            "name": " District Hospital, Ujjain",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "44",
+            "name": " District Hospital, Dindori",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "45",
+            "name": " District Tuberculosis Centre, Mandla",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "46",
+            "name": " District Hospital, Seoni",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "47",
+            "name": " District Hospital, Satna ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "48",
+            "name": " District Hospital, Sidhi",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "49",
+            "name": " District Hospital, Singrauli",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "50",
+            "name": " District Hospital, Umaria",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "51",
+            "name": " District Hospital, Panna",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "52",
+            "name": " District Hospital, Rewa",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "53",
+            "name": " District Hospital, Harda",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "54",
+            "name": " JSR Hospital, Itarsi",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "55",
+            "name": " CHC, Pipariya",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "56",
+            "name": " District Hospital, Rajgarh",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "57",
+            "name": " District Hospital, Sehore",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "58",
+            "name": " District Hospital, Vidisha",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "59",
+            "name": " District Hospital, Ashok Nagar",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "60",
+            "name": " District Hospital, Dewas",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "61",
+            "name": " District Hospital, Guna",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "62",
+            "name": " District Hospital, Khandwa ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "63",
+            "name": "Chirayu Medical College Hospital, Bhopal Indore Highway, Bhaisakhedi, Bhopal",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "64",
+            "name": " Central Research Lab, R D Gardi Medical College, Surasa, Ujjain ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "65",
+            "name": " CentraPath Labs Private Ltd, MZ , Yeshwant Plaza, Indore",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "66",
+            "name": " Lab Medicine, Bansal Hospital, A unit of Ayushman Medical Diagnostics Pvt Ltd, C sector Shahpura, Bhopal",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "67",
+            "name": " Sri Aurobindo Institute of Medical Sciences, Indore",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "68",
+            "name": " L N Medical College J K Hospital, Bhopal ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "69",
+            "name": " Sampurna Sodani Diagnostic Clinic, LG , Morya Centre, , Race Course Road, Indore",
+            "type": "Private",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "70",
+            "name": " Central Pathology Laboratory, People s Hospital, Bhanpur, Bhopal ",
+            "type": "Private",
+            "test_type": "True NAT"
+        }
+    ]
+}
